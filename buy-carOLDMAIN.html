@@ -1,0 +1,748 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover" />
+    
+    <title>Penta Now</title>
+    
+    <link rel="icon" type="image/png" href="assets/img/favicon.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/icon/192x192.png">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="manifest" href="__manifest.json">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet">
+        <!-- Import Bootstrap CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    
+        <!-- Import jQuery -->
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+        
+        <!-- Import Bootstrap JS -->
+        <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    
+</head>
+
+</head>
+
+<body>
+
+
+    <!-- Extra Header -->
+
+    <div class="extraHeader pe-0 ps-0 scrollable-tabs">
+      <ul class="nav nav-tabs lined" role="tablist" style="white-space: nowrap;">
+          <li class="nav-item">
+              <a class="nav-link active" data-bs-toggle="tab" href="#waiting" role="tab">
+                  All Branches
+              </a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" data-bs-toggle="tab" href="#paid1" role="tab">
+                  Centurion
+              </a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" data-bs-toggle="tab" href="#paid2" role="tab">
+                  Lynwood
+              </a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" data-bs-toggle="tab" href="#paid3" role="tab">
+                  Gezina
+              </a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" data-bs-toggle="tab" href="#paid4" role="tab">
+                  Klerksdorp
+              </a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" data-bs-toggle="tab" href="#paid4" role="tab">
+                  Brits
+              </a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" data-bs-toggle="tab" href="#paid4" role="tab">
+                  Mokopane
+              </a>
+          </li>
+      </ul>
+  </div>
+
+<!-- * Extra Header -->
+
+        
+
+    <!-- Share Action Sheet -->
+    <div class="modal fade action-sheet inset" id="actionSheetShare" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Share with</h5>
+                </div>
+                <div class="modal-body">
+                    <ul class="action-button-list">
+                        <li>
+                            <a href="#" class="btn btn-list" data-bs-dismiss="modal">
+                                <span>
+                                    <ion-icon name="logo-facebook"></ion-icon>
+                                    Facebook
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="btn btn-list" data-bs-dismiss="modal">
+                                <span>
+                                    <ion-icon name="logo-twitter"></ion-icon>
+                                    Twitter
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="btn btn-list" data-bs-dismiss="modal">
+                                <span>
+                                    <ion-icon name="logo-instagram"></ion-icon>
+                                    Instagram
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="btn btn-list" data-bs-dismiss="modal">
+                                <span>
+                                    <ion-icon name="logo-linkedin"></ion-icon>
+                                    Linkedin
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- * Share Action Sheet -->
+    <div id="appCapsule" class="extra-header-active full-height">
+
+      <div class="section tab-content mt-2 mb-1">
+
+          <!-- waiting tab -->
+          <div class="container">
+            <div class="row" id="search" style="padding:0px !important; margin-top:10px;">
+                <form id="search-form" action="" method="POST" enctype="multipart/form-data">
+                    <div class="form-group col-xs-9">
+                        <input class="form-control" type="text" placeholder="Search" />
+                    </div>
+                    <div class="form-group col-xs-3" style="border-radius:5px;">
+                        <button type="submit" class="btn-block btn-primary" style="padding:10px;border-radius:5px;">Search</button>
+                    </div>
+                </form>
+            </div>
+            <div class="row" id="filter">
+                <form>
+                    <div class="form-group col-sm-3 col-xs-6">
+                        <select data-filter="make" class="filter-make filter form-control">
+                            <option value="">Select Make</option>
+                            <option value="">Show All</option>
+                        </select>
+                    </div>
+                    <div class="form-group col-sm-3 col-xs-6">
+                        <select data-filter="model" class="filter-model filter form-control">
+                            <option value="">Select Model</option>
+                            <option value="">Show All</option>
+                        </select>
+                    </div>
+                    <div class="form-group col-sm-3 col-xs-6">
+                        <select data-filter="type" class="filter-type filter form-control">
+                            <option value="">Select Type</option>
+                            <option value="">Show All</option>
+                        </select>
+                    </div>
+                    <div class="form-group col-sm-3 col-xs-6">
+                        <select data-filter="price" class="filter-price filter form-control">
+                            <option value="">Select Price Range</option>
+                            <option value="">Show All</option>
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div class="row" id="products" style="margin-bottom:50px;">
+                
+            </div>
+        </div>
+          <!-- * paid tab -->
+
+      </div>
+
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- App Capsule -->
+    <div id="appCapsule">
+
+
+        <!-- Coin Status -->
+        <div class="section full gradientSection">
+            <div class="in coin-head">
+                <h4 class="caption">
+                    All Cars  | Penta Now
+                </h4>
+            </div>
+        </div>
+        <!-- * Coin Status -->
+
+
+
+        <!-- All Cars Filter Start -->
+      <div class="container">
+            <div class="row" id="search" style="padding:0px !important; margin-top:10px;">
+                <form id="search-form" action="" method="POST" enctype="multipart/form-data">
+                    <div class="form-group col-xs-9">
+                        <input class="form-control" type="text" placeholder="Search" />
+                    </div>
+                    <div class="form-group col-xs-3" style="border-radius:5px;">
+                        <button type="submit" class="btn-block btn-primary" style="padding:10px;border-radius:5px;">Search</button>
+                    </div>
+                </form>
+            </div>
+            <div class="row" id="filter">
+                <form>
+                    <div class="form-group col-sm-3 col-xs-6">
+                        <select data-filter="make" class="filter-make filter form-control">
+                            <option value="">Select Make</option>
+                            <option value="">Show All</option>
+                        </select>
+                    </div>
+                    <div class="form-group col-sm-3 col-xs-6">
+                        <select data-filter="model" class="filter-model filter form-control">
+                            <option value="">Select Model</option>
+                            <option value="">Show All</option>
+                        </select>
+                    </div>
+                    <div class="form-group col-sm-3 col-xs-6">
+                        <select data-filter="type" class="filter-type filter form-control">
+                            <option value="">Select Type</option>
+                            <option value="">Show All</option>
+                        </select>
+                    </div>
+                    <div class="form-group col-sm-3 col-xs-6">
+                        <select data-filter="price" class="filter-price filter form-control">
+                            <option value="">Select Price Range</option>
+                            <option value="">Show All</option>
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div class="row" id="products" style="margin-bottom:50px;">
+                
+            </div>
+      </div>
+
+        <!-- All Acars Filter End-->
+
+       
+
+    </div>
+    <!-- * App Capsule -->
+
+    
+<!-- App Bottom Menu -->
+<div class="appBottomMenu mobiledisplayonly">
+    <a href="buy-car.html" class="item">
+        <div class="col">
+            <ion-icon name="car-outline"></ion-icon>
+            <strong>Buy Car</strong>
+        </div>
+    </a>
+    <a href="sell-car.html" class="item">
+        <div class="col">
+            <ion-icon name="cash-outline"></ion-icon>
+            <strong>Sell Car</strong>
+        </div>
+    </a>
+    <a href="" class="item">
+        <div class="col">
+            <ion-icon name="home-outline"></ion-icon>
+        </div>
+    </a>
+    <a href="our-locations.html" class="item">
+      <div class="col">
+          <ion-icon name="information-circle-outline"></ion-icon>
+          <strong>About Us</strong>
+      </div>
+  </a>
+   
+   
+    <a href="app-settings.html" class="item">
+        <div class="col">
+            <ion-icon name="call-outline"></ion-icon>
+            <strong>Call Now</strong>
+        </div>
+    </a>
+  </div>
+  <!-- * App Bottom Menu -->
+
+<style>
+    .vehiclelisting {
+       height: 140px; 
+       width: 100%;
+    }
+
+    @media (min-width:500px) {
+        .vehiclelisting {
+       height: 260px; 
+       width: 100%;
+    }
+    }
+    </style>
+
+    <!-- ========= JS Files =========  -->
+    <!-- Bootstrap -->
+    <script src="assets/js/lib/bootstrap.bundle.min.js"></script>
+    <!-- Ionicons -->
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <!-- Splide -->
+    <script src="assets/js/plugins/splide/splide.min.js"></script>
+    <!-- Apex Charts -->
+    <script src="assets/js/plugins/apexcharts/apexcharts.min.js"></script>
+    <!-- Base Js File -->
+    <script src="assets/js/base.js"></script>
+
+    <script>
+
+        var chartExample1 = {
+            series: [{
+                data: [512, 405, 666, 1090, 1309, 1400, 1500, 700, 1600, 1400, 1600, 2000, 1100, 501, 3000, 1000, 2000]
+            }],
+            chart: {
+                type: 'area',
+                width: '100%',
+                height: 140,
+                sparkline: {
+                    enabled: true
+                }
+            },
+            stroke: {
+                width: 2,
+            },
+            colors: ['#1DCC70'],
+            tooltip: {
+                enabled: false
+            }
+        };
+
+        var chartExample2 = {
+            series: [{
+                data: [512, 405, 666, 1090, 1309, 1400, 1500, 700, 1700, 1600, 1400, 1600]
+            }],
+            chart: {
+                type: 'area',
+                width: '100%',
+                height: 140,
+                sparkline: {
+                    enabled: true
+                }
+            },
+            stroke: {
+                width: 2,
+            },
+            colors: ['#1DCC70'],
+            tooltip: {
+                enabled: false
+            }
+        };
+
+        var chartExample3 = {
+            series: [{
+                data: [512, 405, 666, 1090, 1309, 1400, 1500, 700, 405, 666, 1090, 1309, 1400, 1500]
+            }],
+            chart: {
+                type: 'area',
+                width: '100%',
+                height: 140,
+                sparkline: {
+                    enabled: true
+                }
+            },
+            stroke: {
+                width: 2,
+            },
+            colors: ['#1DCC70'],
+            tooltip: {
+                enabled: false
+            }
+        };
+
+        var chartExample4 = {
+            series: [{
+                data: [512, 405, 666, 1090, 1309, 1400, 1500, 700, 1000, 2000, 512, 405, 666, 1090, 1309, 1400, 1500]
+            }],
+            chart: {
+                type: 'area',
+                width: '100%',
+                height: 140,
+                sparkline: {
+                    enabled: true
+                }
+            },
+            stroke: {
+                width: 2,
+            },
+            colors: ['#1DCC70'],
+            tooltip: {
+                enabled: false
+            }
+        };
+
+        var chartExample5 = {
+            series: [{
+                data: [512, 405, 666, 1090, 1309, 1400, 1309, 1400, 1500]
+            }],
+            chart: {
+                type: 'area',
+                width: '100%',
+                height: 140,
+                sparkline: {
+                    enabled: true
+                }
+            },
+            stroke: {
+                width: 2,
+            },
+            colors: ['#1DCC70'],
+            tooltip: {
+                enabled: false
+            }
+        };
+
+        document.addEventListener('DOMContentLoaded', function () {
+            document.querySelectorAll('.chart-example-1').forEach(chart => new ApexCharts(chart, chartExample1).render());
+            document.querySelectorAll('.chart-example-2').forEach(chart => new ApexCharts(chart, chartExample2).render());
+            document.querySelectorAll('.chart-example-3').forEach(chart => new ApexCharts(chart, chartExample3).render());
+            document.querySelectorAll('.chart-example-4').forEach(chart => new ApexCharts(chart, chartExample4).render());
+            document.querySelectorAll('.chart-example-5').forEach(chart => new ApexCharts(chart, chartExample5).render());
+        })
+
+    </script>
+
+
+
+<!-- Listing Cards-->
+<script>
+   var data = [
+        {
+            "carname": "Toyota - Prado 2002 ",
+            "odometer": "196792 km",
+            "transmission": "Automaatic",
+            "year": "2018",
+            "make": "Toyota",
+            "model": "Prado",
+            "type": "Diesel",
+            "price": "R 669 800.00",
+            "branch": "Klerksdorp",
+            "carurl": "klerksdorp-toyota-prado.php",
+            "image": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/6cbf3a72-ab80-4a46-867c-c2f845ed2523.jpg?"
+        },
+
+
+        {
+            "carname": "Haval - H2 Jolion",
+            "odometer": "110695 km",
+            "transmission": "Manual",
+            "year": "2020",
+            "make": "Haval",
+            "model": "H2 Jolion",
+            "type": "Petrol",
+            "price": "R 289 800.00",
+            "branch": "Klerksdorp",
+            "carurl": "klerksdorp-haval-h2-jolion.php",
+            "image": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/27d28975-4df9-4553-a5a9-a1953129a080.jpg?"
+        },
+
+        {
+            "carname": "Renault - Triber",
+            "odometer": "0 km",
+            "transmission": "Manual",
+            "year": "2024",
+            "make": "Renault",
+            "model": "Triber",
+            "type": "Petrol",
+            "price": "R 209 800.00",
+            "branch": "Klerksdorp",
+            "carurl": "klerksdorp-renault-triber.php",
+            "image": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/6815288b-0ca0-46f7-8d85-ad5ef9b96789.jpg?"
+        },
+
+        {
+            "carname": "Renault - Triber",
+            "odometer": "0 km",
+            "transmission": "Manual",
+            "year": "2024",
+            "make": "Renault",
+            "model": "Triber",
+            "type": "Petrol",
+            "price": "R 209 800.00",
+            "branch": "Klerksdorp",
+            "carurl": "klerksdorp-renault-triber-1.php",
+            "image": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/4f72b40b-7060-4b9f-847f-d389ad0675a9.jpg?"
+        },
+        
+        
+        {
+            "carname": "Renault - Triber",
+            "odometer": "0 km",
+            "transmission": "Manual",
+            "year": "2024",
+            "make": "Renault",
+            "model": "Triber",
+            "type": "Petrol",
+            "price": "R 209 800.00",
+            "branch": "Klerksdorp",
+            "carurl": "klerksdorp-renault-triber-2.php",
+            "image": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/b161d638-d9f6-4fb3-be78-1d8decfaed9b.jpg?"
+        },
+
+
+
+        {
+            "make": "Ford",
+            "carname": "Ford - Ranger",
+            "odometer": "112 607km",
+            "transmission": "Manual",
+            "year": "2021",
+            "model": "Ranger",
+            "type": "Diesel",
+            "price": "R 259 800.00",
+            "branch": "Klerksdorp",
+            "carurl": "klerksdorp-ford-ranger.php",
+            "image": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/5cd89c05-e7e4-4b93-a9bf-94259b44b0ae.jpg?"
+        },
+
+
+        
+         {
+            "carname": "Renault - Triber",
+            "odometer": "0 km",
+            "transmission": "Manual",
+            "year": "2024",
+            "make": "Renault",
+            "model": "Triber",
+            "type": "Petrol",
+            "price": "R 209 800.00",
+            "branch": "Klerksdorp",
+            "carurl": "klerksdorp-renault-triber-3.php",
+            "image": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/7d83bc5e-d2f7-47c1-bf43-f7ec7e2b24e9.jpg?"
+        },
+        
+        
+
+        {
+            "carname": "HYUNDAI - Creta",
+            "odometer": "25585 km",
+            "transmission": "Manual",
+            "year": "2021",
+            "make": "HYUNDAI",
+            "model": "Creta",
+            "type": "Petrol",
+            "price": "R 259 800.00",
+            "branch": "Klerksdorp",
+            "carurl": "klerksdorp-hyundai-creta.php",
+            "image": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/e0b8c405-e990-4840-8e19-d1455b566dd3.jpg?"
+        },
+
+
+        {
+            "carname": "Isuzu - D-MAX",
+            "odometer": "108689 km",
+            "transmission": "Automatic",
+            "year": "2022",
+            "make": "Isuzu",
+            "model": "D-Max",
+            "type": "Diesel",
+            "price": "R 399 800.00",
+            "branch": "Klerksdorp",
+            "carurl": "klerksdorp-isuzu-d-max.php",
+            "image": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/7be3e990-26a4-4beb-b935-04480f848555.jpg?"
+        },
+
+        
+        {
+            "carname": "Ford - Territory / Everest",
+            "odometer": "72550 km",
+            "transmission": "Automatic",
+            "year": "2021",
+            "make": "Ford",
+            "model": "Territory / Everest",
+            "type": "Diesel",
+            "price": "R 639 800.00",
+            "branch": "Klerksdorp",
+            "carurl": "klerksdorp-ford-everest.php",
+            "image": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/872b17f0-1bba-4d9c-b3aa-b6dc4e4eb993.jpg?"
+        },
+
+
+        {
+            "carname": "Toyota - Hilux 2016",
+            "odometer": "0 km",
+            "transmission": "Manual",
+            "year": "2016",
+            "make": "Toyota",
+            "model": "Hilux 2016 ON",
+            "type": "Diesel",
+            "price": "R 399 800.00",
+            "branch": "Klerksdorp",
+            "carurl": "klerksdorp-toyota-hilux-2016.php",
+            "image": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/4907896f-76d7-4142-a105-3c8bad51e366.jpg?"
+        }
+    ];
+
+
+    var products = "",
+        makes = "",
+        models = "",
+        types = "",
+        branches = "",
+        carurls = "";
+        carnames = "";
+        odometers = "";
+        transmissions = "";
+        years = "";
+
+        
+    for (var i = 0; i < data.length; i++) {
+        var make = data[i].make,
+            model = data[i].model,
+            type = data[i].type,
+            branch = data[i].branch,
+            price = data[i].price,
+            carname = data[i].carname,
+            carurl = data[i].carurl,
+            odometer = data[i].odometer,
+            transmission = data[i].transmission,
+            year = data[i].year,
+
+            rawPrice = price.replace("$", ""),
+            rawPrice = parseInt(rawPrice.replace(",", "")),
+            image = data[i].image;
+
+        // Create product cards
+        products += "<div class='col-sm-4 product' data-make='" + make + "' data-model='" + model + "' data-type='" + type + "' data-price='" + rawPrice + "'>" +
+                        
+                        "<div class='product-inner text-center' style='border-radius:15px;margin-top:20px;'>" +
+                            "<img src='" + image + "' class='vehiclelisting'>" +
+                            /*Vehciel Name */
+                            "<div class='product-details'>" +
+                                "<div style='font-size:14px;margin-right:5px;margin-left:5px;margin-bottom:6px;'><strong> " + carname + "</strong></div>" +
+                            "</div>" +
+
+                            /*Vehicle Name End */
+                            "<div class='product-details' style='display:flex !important;align-content:center;justify-content: space-around;'>" +
+                                "<div style='font-size:10px;margin-right:5px;margin-left:5px;'><ion-icon name='speedometer-outline'></ion-icon> " + odometer + "</div>" +
+                                "<div style='font-size:10px;margin-right:5px;'><ion-icon name='car-outline'></ion-icon> " + transmission + "</div>" +
+                                "<div style='font-size:10px;margin-right:5px;'><ion-icon name='calendar-outline'></ion-icon> " + year + "</div>" +
+                            "</div>" +
+                            "<div style='margin:15px 0px;font-size:18px;'><strong>" + price + "</strong></div>" +
+                            "<a style='padding:5px 20px; border-radius:15px; background-color:#1b5aeb;color:#fff;margin:5px 10px 0px 10px' href='" + carurl + "'>view details</a>" +
+                            "<div style='margin:10px 0px 0px 0px; font-size:10px;'>" + branch + "</div>" +
+                        "</div>" +
+                    "</div>";
+
+
+        
+        //create dropdown of makes
+        if (makes.indexOf("<option value='" + make + "'>" + make + "</option>") == -1) {
+            makes += "<option value='" + make + "'>" + make + "</option>";
+        }
+        
+        //create dropdown of models
+        if (models.indexOf("<option value='" + model + "'>" + model + "</option>") == -1) {
+            models += "<option value='" + model + "'>" + model + "</option>";
+        }
+        
+        //create dropdown of types
+        if (types.indexOf("<option value='" + type + "'>" + type + "</option>") == -1) {
+            types += "<option value='" + type + "'>" + type + "</option>";
+        }
+    }
+
+    $("#products").html(products);
+    $(".filter-make").append(makes);
+    $(".filter-model").append(models);
+    $(".filter-type").append(types);
+
+    var filtersObject = {};
+
+    //on filter change
+    $(".filter").on("change", function() {
+        var filterName = $(this).data("filter"),
+            filterVal = $(this).val();
+        
+        if (filterVal == "") {
+            delete filtersObject[filterName];
+        } else {
+            filtersObject[filterName] = filterVal;
+        }
+        
+        var filters = "";
+        
+        for (var key in filtersObject) {
+            if (filtersObject.hasOwnProperty(key)) {
+                filters += "[data-" + key + "='" + filtersObject[key] + "']";
+            }
+        }
+        
+        if (filters == "") {
+            $(".product").show();
+        } else {
+            $(".product").hide();
+            $(".product").hide().filter(filters).show();
+        }
+    });
+
+    //on search form submit
+    $("#search-form").submit(function(e) {
+        e.preventDefault();
+        var query = $("#search-form input").val().toLowerCase();
+
+        $(".product").hide();
+        $(".product").each(function() {
+            var make = $(this).data("make").toLowerCase(),
+                model = $(this).data("model").toLowerCase(),
+                type = $(this).data("type").toLowerCase();
+
+            if (make.indexOf(query) > -1 || model.indexOf(query) > -1 || type.indexOf(query) > -1) {
+                $(this).show();
+            }
+        });
+    });
+</script>
+
+
+    <!-- Listing cards Heigh Update End-->
+     <!--This will be the end of the section that will allow ius to magenage how manage people use the s-->
+
+</body>
+
+</html>
+

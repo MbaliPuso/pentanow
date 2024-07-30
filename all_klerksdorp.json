@@ -1,0 +1,223 @@
+[
+    {
+        "BasicPrice": 312869.57,
+        "BatteryCapacity": 0.00,
+        "BodyStyle": {
+            "BodyStyle": "Double Cab",
+            "BodyStyle_UID": "87dce9e9-2dde-4ac5-9478-bec48e1a9e5c"
+        },
+        "CO2Emission": 0,
+        "Colour": "White",
+        "ColourGroup": "White",
+        "ColourGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "DaysInStock": 7,
+        "DaysInStockGroup": 7,
+        "Discount": 0.00,
+        "DriveType": 1,
+        "ElectricRange": 0.0,
+        "EnergyConsumption": 0.00,
+        "EngineNumber": "WYM4F17240",
+        "EngineSize": 2200,
+        "EstimatedDeliveryDate": "2024-06-24T00:00:00",
+        "FleetOrderNumber": "",
+        "FuelType": {
+            "FuelType": "Diesel",
+            "FuelType_UID": "b64e2732-9af8-410a-8027-1222e99c1b6f"
+        },
+        "HasServiceHistory": true,
+        "Images": [
+            {
+                "Entity_UID": "ece180ed-f431-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 1,
+                "Image_UID": "fffe6d42-1ce5-4b3f-a1cb-1332b27ae227",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/fffe6d42-1ce5-4b3f-a1cb-1332b27ae227.jpg?",
+                "ImageWidth": 1098
+            },
+            {
+                "Entity_UID": "ece180ed-f431-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 2,
+                "Image_UID": "573eaf18-c70e-4881-bb1f-abd55c164dfa",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/573eaf18-c70e-4881-bb1f-abd55c164dfa.jpg?",
+                "ImageWidth": 1067
+            },
+            {
+                "Entity_UID": "ece180ed-f431-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 3,
+                "Image_UID": "7f5907cd-ec96-47b4-8d66-c39faa07579e",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/7f5907cd-ec96-47b4-8d66-c39faa07579e.jpg?",
+                "ImageWidth": 1063
+            },
+            {
+                "Entity_UID": "ece180ed-f431-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 4,
+                "Image_UID": "a3c7b63d-f311-430b-8cf1-a2d34e9cc616",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/a3c7b63d-f311-430b-8cf1-a2d34e9cc616.jpg?",
+                "ImageWidth": 1538
+            },
+            {
+                "Entity_UID": "ece180ed-f431-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 5,
+                "Image_UID": "8a867677-526b-4ac0-876d-aebe30e772f5",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/8a867677-526b-4ac0-876d-aebe30e772f5.jpg?",
+                "ImageWidth": 1920
+            },
+            {
+                "Entity_UID": "ece180ed-f431-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 6,
+                "Image_UID": "a15cd397-4a66-42a4-b4f2-c5f869e04ec4",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/a15cd397-4a66-42a4-b4f2-c5f869e04ec4.jpg?",
+                "ImageWidth": 1920
+            },
+            {
+                "Entity_UID": "ece180ed-f431-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 7,
+                "Image_UID": "5f462abb-05dc-4c98-a7ee-b05a8190f4c4",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/5f462abb-05dc-4c98-a7ee-b05a8190f4c4.jpg?",
+                "ImageWidth": 1920
+            },
+            {
+                "Entity_UID": "ece180ed-f431-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 8,
+                "Image_UID": "046dafca-f90b-40ee-b57e-a77c5c92e28f",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/046dafca-f90b-40ee-b57e-a77c5c92e28f.jpg?",
+                "ImageWidth": 609
+            },
+            {
+                "Entity_UID": "ece180ed-f431-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 9,
+                "Image_UID": "3ed91de5-5a94-47b0-82b4-c8ec28ce132f",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/3ed91de5-5a94-47b0-82b4-c8ec28ce132f.jpg?",
+                "ImageWidth": 581
+            },
+            {
+                "Entity_UID": "ece180ed-f431-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 10,
+                "Image_UID": "a755f906-ecca-4109-81ca-4306396563d1",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/a755f906-ecca-4109-81ca-4306396563d1.jpg?",
+                "ImageWidth": 1017
+            }
+        ],
+        "Priceior": {
+            "Interior": "Cloth",
+            "Interior_UID": "79ebbc56-fce4-422d-afc6-2d7cf0e44327"
+        },
+        "InternalNotes": null,
+        "InternetNotes": "",
+        "InternetPrice": 359800.00,
+        "InvoiceGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "IsNew": false,
+        "IsQualifying": true,
+        "IsReserved": false,
+        "Location": "Used Showroom",
+        "Make": {
+            "FranchiseModel": null,
+            "FriendlyDescription": null,
+            "Make": "MAHINDRA",
+            "Make_UID": "cb849aa2-66c5-e311-89d8-00155d1e0e1e"
+        },
+        "ManufacturerCode": null,
+        "ManufacturerRecommendedRetailPrice": 0.00,
+        "Model": {
+            "FriendlyDescription": null,
+            "Make_UID": "cb849aa2-66c5-e311-89d8-00155d1e0e1e",
+            "Model": "Pik Up",
+            "Model_UID": "eb778101-d4ac-e711-80da-00155d0a5f04"
+        },
+        "ModelYear": 2021,
+        "Odometer": 33184,
+        "OdometerFull": 0,
+        "Options": [],
+        "OrganisationalUnit": {
+            "Address": {
+                "Address1": "72 Buffeldoorn Road",
+                "Address2": "Wilkoppies",
+                "Address3": "",
+                "CompanyName": null,
+                "Country": null,
+                "County": "North West",
+                "PostCode": "2571",
+                "PostTown": "Klerksdorp",
+                "IsPostOfficeBox": null
+            },
+            "Description": "Penta Now Klerksdorp",
+            "EmailAddress": "klerksdorp@now.co.za",
+            "OrganisationalUnitLevel": 4,
+            "OrganisationalUnit_UID": "d36c5bf8-da85-4623-9cb7-1c7c2f050f9a",
+            "ParentOrganisationalUnit_UID": "599c30ff-0d83-47f9-82b6-c1bad03af226",
+            "Telephone": ""
+        },
+        "PhotoCount": 10,
+        "PhysicalLocation": {
+            "DealerCode": "",
+            "Description": "Penta Now Klerksdorp",
+            "Location_UID": "00000000-0000-0000-0000-000000000000",
+            "LocationDescription": "Used Showroom",
+            "OrganisationalUnit": {
+                "Address": {
+                    "Address1": "72 Buffeldoorn Road",
+                    "Address2": "Wilkoppies",
+                    "Address3": "",
+                    "CompanyName": null,
+                    "Country": null,
+                    "County": "North West",
+                    "PostCode": "2571",
+                    "PostTown": "Klerksdorp",
+                    "IsPostOfficeBox": null
+                },
+                "Description": "Penta Now Klerksdorp",
+                "EmailAddress": "klerksdorp@now.co.za",
+                "OrganisationalUnitLevel": 4,
+                "OrganisationalUnit_UID": "d36c5bf8-da85-4623-9cb7-1c7c2f050f9a",
+                "ParentOrganisationalUnit_UID": "599c30ff-0d83-47f9-82b6-c1bad03af226",
+                "Telephone": ""
+            },
+            "UID": "d36c5bf8-da85-4623-9cb7-1c7c2f050f9a"
+        },
+        "PreviousOwners": 0,
+        "Profiles": [
+            {
+                "AllowVehicleProfileChanges": false,
+                "Description": "Retail",
+                "ProfileType": 0,
+                "UID": "82747147-0ba4-4f34-9139-5f02105cb4b1"
+            }
+        ],
+        "RegistrationDate": "2021-09-21T00:00:00",
+        "RegistrationNumber": "KNP828NW",
+        "RetailPrice": 359800.01,
+        "Specification": {
+            "Doors": 0,
+            "FriendlyDescription": null,
+            "ModelYear": 0,
+            "ModelYearSeries": "",
+            "ServiceIntervalDistance": 0,
+            "ServiceIntervalWeeks": 0,
+            "Specification": "2.2 MHAWK S11 4X4 A/T P/U D/C",
+            "Specification_UID": "3425cde2-fe23-ef11-a7e3-0022481354d9"
+        },
+        "Status": 0,
+        "StockNumber": "UNK29",
+        "SupplierOrderNumber": "uk5196",
+        "Transmission": {
+            "Transmission": "Automatic",
+            "Transmission_UID": "ae61bfc6-e802-42c7-bb60-cef6e837395b"
+        },
+        "UnitOfDistance": 1,
+        "Vehicle_UID": "ece180ed-f431-ef11-a7e4-0022481354d9",
+        "VehicleCode": "41514118",
+        "VehicleType": 1,
+        "VideoCount": 0,
+        "Videos": [],
+        "VIN": "MA1RC4WYPN2016384"
+    }
+]

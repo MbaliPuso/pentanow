@@ -1,0 +1,3273 @@
+[
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+    
+    {
+        "BasicPrice": 521652.17,
+        "BatteryCapacity": 0.00,
+        "BodyStyle": {
+            "BodyStyle": "Bakkie/Pickup",
+            "BodyStyle_UID": "b6b6f93f-81ee-ea11-a965-00155d0aea69"
+        },
+        "CO2Emission": 0,
+        "Colour": "White",
+        "ColourGroup": "White",
+        "ColourGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "DaysInStock": 27,
+        "DaysInStockGroup": 27,
+        "Discount": 0.00,
+        "DriveType": 1,
+        "ElectricRange": 0.0,
+        "EnergyConsumption": 0.00,
+        "EngineNumber": "1VD0299983",
+        "EngineSize": 4500,
+        "EstimatedDeliveryDate": "2024-06-04T00:00:00",
+        "FleetOrderNumber": "",
+        "FuelType": {
+            "FuelType": "Diesel",
+            "FuelType_UID": "b64e2732-9af8-410a-8027-1222e99c1b6f"
+        },
+        "HasServiceHistory": true,
+        "Images": [
+            {
+                "Entity_UID": "43dd2352-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 1,
+                "Image_UID": "10ee8f6e-d6d6-4fca-b717-4584db05665e",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/10ee8f6e-d6d6-4fca-b717-4584db05665e.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "43dd2352-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 2,
+                "Image_UID": "af5cef87-f596-4810-b25f-166de9a03bb9",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/af5cef87-f596-4810-b25f-166de9a03bb9.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "43dd2352-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 3,
+                "Image_UID": "2f7965c7-df1d-4786-b498-6220c5c98112",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/2f7965c7-df1d-4786-b498-6220c5c98112.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "43dd2352-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 4,
+                "Image_UID": "c493f399-1bc3-46ec-a607-d0098e228c34",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/c493f399-1bc3-46ec-a607-d0098e228c34.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "43dd2352-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 5,
+                "Image_UID": "7237eb73-e1a6-494e-a3c8-47f00c286621",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/7237eb73-e1a6-494e-a3c8-47f00c286621.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "43dd2352-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 6,
+                "Image_UID": "799f1d48-12eb-4e8b-a05d-98e2cadad964",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/799f1d48-12eb-4e8b-a05d-98e2cadad964.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "43dd2352-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 7,
+                "Image_UID": "45aaa11a-0b3e-427c-a870-aa740d3f7889",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/45aaa11a-0b3e-427c-a870-aa740d3f7889.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "43dd2352-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 8,
+                "Image_UID": "6defb621-9915-4f9f-a8a4-a530aa01eb09",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/6defb621-9915-4f9f-a8a4-a530aa01eb09.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "43dd2352-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 9,
+                "Image_UID": "349508e6-07e8-48b0-a4b9-1bfc9ad4a5c1",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/349508e6-07e8-48b0-a4b9-1bfc9ad4a5c1.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "43dd2352-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 10,
+                "Image_UID": "7573a897-8d9e-4dde-a03b-3851ed208ba0",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/7573a897-8d9e-4dde-a03b-3851ed208ba0.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "43dd2352-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 11,
+                "Image_UID": "e7ce5d2b-1565-4c2e-9421-ffe5cdb2874b",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/e7ce5d2b-1565-4c2e-9421-ffe5cdb2874b.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "43dd2352-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 12,
+                "Image_UID": "0a78e0f9-b08b-48c9-a0a4-1608466cdef0",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/0a78e0f9-b08b-48c9-a0a4-1608466cdef0.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "43dd2352-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 13,
+                "Image_UID": "d58fcaed-b58f-4914-a6d2-51d177b5a230",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/d58fcaed-b58f-4914-a6d2-51d177b5a230.jpg?",
+                "ImageWidth": 1440
+            }
+        ],
+        "Interior": {
+            "Interior": "Cloth",
+            "Interior_UID": "79ebbc56-fce4-422d-afc6-2d7cf0e44327"
+        },
+        "InternalNotes": null,
+        "InternetNotes": "",
+        "InternetPrice": 599900.00,
+        "InvoiceGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "IsNew": false,
+        "IsQualifying": true,
+        "IsReserved": false,
+        "Location": "Used Showroom",
+        "Make": {
+            "FranchiseModel": null,
+            "FriendlyDescription": null,
+            "Make": "Toyota",
+            "Make_UID": "371353a2-a508-e211-8af1-00155d0a2c00"
+        },
+        "ManufacturerCode": null,
+        "ManufacturerRecommendedRetailPrice": 0.00,
+        "Model": {
+            "FriendlyDescription": null,
+            "Make_UID": "371353a2-a508-e211-8af1-00155d0a2c00",
+            "Model": "LAND CRUISER PICK UP",
+            "Model_UID": "7d99d168-9179-e611-80e9-00155d65572c"
+        },
+        "ModelYear": 2015,
+        "Odometer": 346000,
+        "OdometerFull": 346000,
+        "Options": [],
+        "OrganisationalUnit": {
+            "Address": {
+                "Address1": "73 Spoorweg Street",
+                "Address2": "",
+                "Address3": "",
+                "CompanyName": null,
+                "Country": null,
+                "County": "North West",
+                "PostCode": "0250",
+                "PostTown": "Brits",
+                "IsPostOfficeBox": null
+            },
+            "Description": "Penta Now Brits",
+            "EmailAddress": "brits@now.co.za",
+            "OrganisationalUnitLevel": 4,
+            "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+            "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+            "Telephone": ""
+        },
+        "PhotoCount": 13,
+        "PhysicalLocation": {
+            "DealerCode": "",
+            "Description": "Penta Now Brits",
+            "Location_UID": "00000000-0000-0000-0000-000000000000",
+            "LocationDescription": "Used Showroom",
+            "OrganisationalUnit": {
+                "Address": {
+                    "Address1": "73 Spoorweg Street",
+                    "Address2": "",
+                    "Address3": "",
+                    "CompanyName": null,
+                    "Country": null,
+                    "County": "North West",
+                    "PostCode": "0250",
+                    "PostTown": "Brits",
+                    "IsPostOfficeBox": null
+                },
+                "Description": "Penta Now Brits",
+                "EmailAddress": "brits@now.co.za",
+                "OrganisationalUnitLevel": 4,
+                "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+                "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+                "Telephone": ""
+            },
+            "UID": "e40d13a9-7444-442e-9aea-8568022b3bc0"
+        },
+        "PreviousOwners": 0,
+        "Profiles": [
+            {
+                "AllowVehicleProfileChanges": false,
+                "Description": "Retail",
+                "ProfileType": 0,
+                "UID": "82747147-0ba4-4f34-9139-5f02105cb4b1"
+            }
+        ],
+        "RegistrationDate": "2015-09-29T00:00:00",
+        "RegistrationNumber": "JLY070NW",
+        "RetailPrice": 599900.00,
+        "Specification": {
+            "Doors": 0,
+            "FriendlyDescription": null,
+            "ModelYear": 0,
+            "ModelYearSeries": "",
+            "ServiceIntervalDistance": 0,
+            "ServiceIntervalWeeks": 0,
+            "Specification": "79 4.5D P/U D/C",
+            "Specification_UID": "c23d4458-c2ad-4804-8ada-78103fbbe550"
+        },
+        "Status": 0,
+        "StockNumber": "UNB36",
+        "SupplierOrderNumber": "",
+        "Transmission": {
+            "Transmission": "Manual",
+            "Transmission_UID": "676b0760-acd2-4612-be76-c64c4db25047"
+        },
+        "UnitOfDistance": 1,
+        "Vehicle_UID": "43dd2352-5722-ef11-a7e3-0022481354d9",
+        "VehicleCode": "60078540",
+        "VehicleType": 1,
+        "VideoCount": 0,
+        "Videos": [],
+        "VIN": "JTEBV71J507004445"
+    },
+    {
+        "BasicPrice": 165130.43,
+        "BatteryCapacity": 0.00,
+        "BodyStyle": {
+            "BodyStyle": "SUV",
+            "BodyStyle_UID": "806c3e51-3704-4f71-af8a-e01d209fccfe"
+        },
+        "CO2Emission": 0,
+        "Colour": "Blue",
+        "ColourGroup": "Blue",
+        "ColourGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "DaysInStock": 27,
+        "DaysInStockGroup": 27,
+        "Discount": 0.00,
+        "DriveType": 1,
+        "ElectricRange": 0.0,
+        "EnergyConsumption": 0.00,
+        "EngineNumber": "KE63973",
+        "EngineSize": 1500,
+        "EstimatedDeliveryDate": "2024-06-04T00:00:00",
+        "FleetOrderNumber": "",
+        "FuelType": {
+            "FuelType": "Petrol",
+            "FuelType_UID": "30757bab-4e10-4660-a078-efc3844f5854"
+        },
+        "HasServiceHistory": true,
+        "Images": [
+            {
+                "Entity_UID": "95508481-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 1,
+                "Image_UID": "4d6935ea-db78-47ad-b64e-11c31014bb73",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/4d6935ea-db78-47ad-b64e-11c31014bb73.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "95508481-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 2,
+                "Image_UID": "f57138df-7815-47f5-a583-0114ea09343f",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/f57138df-7815-47f5-a583-0114ea09343f.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "95508481-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 3,
+                "Image_UID": "6bbc14c4-eead-4ec0-ae31-e9299f145e94",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/6bbc14c4-eead-4ec0-ae31-e9299f145e94.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "95508481-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 4,
+                "Image_UID": "c55a2beb-d447-4984-a357-420fd5f5c265",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/c55a2beb-d447-4984-a357-420fd5f5c265.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "95508481-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 5,
+                "Image_UID": "f6bbce64-0a19-4300-afcf-c3ce6dc1271e",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/f6bbce64-0a19-4300-afcf-c3ce6dc1271e.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "95508481-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 6,
+                "Image_UID": "8032c97e-be7a-4a22-9983-a79f5b2c5f4f",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/8032c97e-be7a-4a22-9983-a79f5b2c5f4f.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "95508481-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 7,
+                "Image_UID": "4128ccee-ec16-4676-81e8-beab0aca318f",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/4128ccee-ec16-4676-81e8-beab0aca318f.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "95508481-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 8,
+                "Image_UID": "d101278a-352a-4bd2-82be-da746bd92bec",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/d101278a-352a-4bd2-82be-da746bd92bec.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "95508481-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 9,
+                "Image_UID": "8e9c0ac9-8252-446a-a053-ebce58be35d0",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/8e9c0ac9-8252-446a-a053-ebce58be35d0.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "95508481-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 10,
+                "Image_UID": "b767e11f-a4b4-4fd4-8f30-a48b7eea0588",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/b767e11f-a4b4-4fd4-8f30-a48b7eea0588.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "95508481-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 11,
+                "Image_UID": "d9308f05-cb71-4b63-9857-d2fca09fcdc9",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/d9308f05-cb71-4b63-9857-d2fca09fcdc9.jpg?",
+                "ImageWidth": 1280
+            }
+        ],
+        "Interior": {
+            "Interior": "Black",
+            "Interior_UID": "a4b6f93f-81ee-ea11-a965-00155d0aea69"
+        },
+        "InternalNotes": null,
+        "InternetNotes": "",
+        "InternetPrice": 189900.00,
+        "InvoiceGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "IsNew": false,
+        "IsQualifying": true,
+        "IsReserved": false,
+        "Location": "Used Showroom",
+        "Make": {
+            "FranchiseModel": null,
+            "FriendlyDescription": null,
+            "Make": "Ford",
+            "Make_UID": "6b7d48e8-a808-e211-8af1-00155d0a2c00"
+        },
+        "ManufacturerCode": null,
+        "ManufacturerRecommendedRetailPrice": 0.00,
+        "Model": {
+            "FriendlyDescription": null,
+            "Make_UID": "6b7d48e8-a808-e211-8af1-00155d0a2c00",
+            "Model": "Ecosport",
+            "Model_UID": "cdbacf70-793b-e511-872c-00155d655721"
+        },
+        "ModelYear": 2019,
+        "Odometer": 103000,
+        "OdometerFull": 0,
+        "Options": [],
+        "OrganisationalUnit": {
+            "Address": {
+                "Address1": "73 Spoorweg Street",
+                "Address2": "",
+                "Address3": "",
+                "CompanyName": null,
+                "Country": null,
+                "County": "North West",
+                "PostCode": "0250",
+                "PostTown": "Brits",
+                "IsPostOfficeBox": null
+            },
+            "Description": "Penta Now Brits",
+            "EmailAddress": "brits@now.co.za",
+            "OrganisationalUnitLevel": 4,
+            "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+            "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+            "Telephone": ""
+        },
+        "PhotoCount": 11,
+        "PhysicalLocation": {
+            "DealerCode": "",
+            "Description": "Penta Now Brits",
+            "Location_UID": "00000000-0000-0000-0000-000000000000",
+            "LocationDescription": "Used Showroom",
+            "OrganisationalUnit": {
+                "Address": {
+                    "Address1": "73 Spoorweg Street",
+                    "Address2": "",
+                    "Address3": "",
+                    "CompanyName": null,
+                    "Country": null,
+                    "County": "North West",
+                    "PostCode": "0250",
+                    "PostTown": "Brits",
+                    "IsPostOfficeBox": null
+                },
+                "Description": "Penta Now Brits",
+                "EmailAddress": "brits@now.co.za",
+                "OrganisationalUnitLevel": 4,
+                "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+                "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+                "Telephone": ""
+            },
+            "UID": "e40d13a9-7444-442e-9aea-8568022b3bc0"
+        },
+        "PreviousOwners": 0,
+        "Profiles": [
+            {
+                "AllowVehicleProfileChanges": false,
+                "Description": "Retail",
+                "ProfileType": 0,
+                "UID": "82747147-0ba4-4f34-9139-5f02105cb4b1"
+            }
+        ],
+        "RegistrationDate": "2019-07-26T00:00:00",
+        "RegistrationNumber": "E63973",
+        "RetailPrice": 189899.99,
+        "Specification": {
+            "Doors": 0,
+            "FriendlyDescription": null,
+            "ModelYear": 0,
+            "ModelYearSeries": "",
+            "ServiceIntervalDistance": 0,
+            "ServiceIntervalWeeks": 0,
+            "Specification": "ECOSPORT 1.5 TDCI AMBIENTE",
+            "Specification_UID": "a0c79e52-c918-ef11-a7e2-0022481354d9"
+        },
+        "Status": 0,
+        "StockNumber": "UNB38",
+        "SupplierOrderNumber": "",
+        "Transmission": {
+            "Transmission": "Manual",
+            "Transmission_UID": "676b0760-acd2-4612-be76-c64c4db25047"
+        },
+        "UnitOfDistance": 1,
+        "Vehicle_UID": "95508481-5722-ef11-a7e3-0022481354d9",
+        "VehicleCode": "22048350",
+        "VehicleType": 1,
+        "VideoCount": 0,
+        "Videos": [],
+        "VIN": "MAJAXXMRKAKE63973"
+    },
+    {
+        "BasicPrice": 182521.74,
+        "BatteryCapacity": 0.00,
+        "BodyStyle": {
+            "BodyStyle": "Hatch",
+            "BodyStyle_UID": "9bbc91b2-f0b9-4b52-bc2d-712382db2c15"
+        },
+        "CO2Emission": 0,
+        "Colour": "Silver",
+        "ColourGroup": "Silver",
+        "ColourGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "DaysInStock": 27,
+        "DaysInStockGroup": 27,
+        "Discount": 0.00,
+        "DriveType": 1,
+        "ElectricRange": 0.0,
+        "EnergyConsumption": 0.00,
+        "EngineNumber": "K12MP1388742",
+        "EngineSize": 1200,
+        "EstimatedDeliveryDate": "2024-06-04T00:00:00",
+        "FleetOrderNumber": "",
+        "FuelType": {
+            "FuelType": "Petrol",
+            "FuelType_UID": "30757bab-4e10-4660-a078-efc3844f5854"
+        },
+        "HasServiceHistory": true,
+        "Images": [],
+        "Interior": {
+            "Interior": "Cloth",
+            "Interior_UID": "79ebbc56-fce4-422d-afc6-2d7cf0e44327"
+        },
+        "InternalNotes": null,
+        "InternetNotes": "",
+        "InternetPrice": 209900.00,
+        "InvoiceGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "IsNew": false,
+        "IsQualifying": true,
+        "IsReserved": false,
+        "Location": "Used Showroom",
+        "Make": {
+            "FranchiseModel": null,
+            "FriendlyDescription": null,
+            "Make": "Suzuki",
+            "Make_UID": "a8a2d50e-2502-e211-8af1-00155d0a2c00"
+        },
+        "ManufacturerCode": null,
+        "ManufacturerRecommendedRetailPrice": 0.00,
+        "Model": {
+            "FriendlyDescription": null,
+            "Make_UID": "a8a2d50e-2502-e211-8af1-00155d0a2c00",
+            "Model": "New Swift",
+            "Model_UID": "bab3e46c-2eff-433a-bc3b-33225b180137"
+        },
+        "ModelYear": 2022,
+        "Odometer": 72830,
+        "OdometerFull": 0,
+        "Options": [],
+        "OrganisationalUnit": {
+            "Address": {
+                "Address1": "73 Spoorweg Street",
+                "Address2": "",
+                "Address3": "",
+                "CompanyName": null,
+                "Country": null,
+                "County": "North West",
+                "PostCode": "0250",
+                "PostTown": "Brits",
+                "IsPostOfficeBox": null
+            },
+            "Description": "Penta Now Brits",
+            "EmailAddress": "brits@now.co.za",
+            "OrganisationalUnitLevel": 4,
+            "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+            "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+            "Telephone": ""
+        },
+        "PhotoCount": 0,
+        "PhysicalLocation": {
+            "DealerCode": "",
+            "Description": "Penta Now Brits",
+            "Location_UID": "00000000-0000-0000-0000-000000000000",
+            "LocationDescription": "Used Showroom",
+            "OrganisationalUnit": {
+                "Address": {
+                    "Address1": "73 Spoorweg Street",
+                    "Address2": "",
+                    "Address3": "",
+                    "CompanyName": null,
+                    "Country": null,
+                    "County": "North West",
+                    "PostCode": "0250",
+                    "PostTown": "Brits",
+                    "IsPostOfficeBox": null
+                },
+                "Description": "Penta Now Brits",
+                "EmailAddress": "brits@now.co.za",
+                "OrganisationalUnitLevel": 4,
+                "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+                "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+                "Telephone": ""
+            },
+            "UID": "e40d13a9-7444-442e-9aea-8568022b3bc0"
+        },
+        "PreviousOwners": 0,
+        "Profiles": [
+            {
+                "AllowVehicleProfileChanges": false,
+                "Description": "Retail",
+                "ProfileType": 0,
+                "UID": "82747147-0ba4-4f34-9139-5f02105cb4b1"
+            }
+        ],
+        "RegistrationDate": "2022-05-03T00:00:00",
+        "RegistrationNumber": "KRZ995NW",
+        "RetailPrice": 209900.00,
+        "Specification": {
+            "Doors": 0,
+            "FriendlyDescription": null,
+            "ModelYear": 0,
+            "ModelYearSeries": "",
+            "ServiceIntervalDistance": 0,
+            "ServiceIntervalWeeks": 0,
+            "Specification": "1.2 GL AMT",
+            "Specification_UID": "05fdc8de-bb17-4bd6-b41a-272ef07f3151"
+        },
+        "Status": 0,
+        "StockNumber": "UNB39",
+        "SupplierOrderNumber": "",
+        "Transmission": {
+            "Transmission": "Automatic",
+            "Transmission_UID": "ae61bfc6-e802-42c7-bb60-cef6e837395b"
+        },
+        "UnitOfDistance": 1,
+        "Vehicle_UID": "4f858b9c-5722-ef11-a7e3-0022481354d9",
+        "VehicleCode": "59007101",
+        "VehicleType": 1,
+        "VideoCount": 0,
+        "Videos": [],
+        "VIN": "MBHCZC63S00925809"
+    },
+    {
+        "BasicPrice": 1086956.52,
+        "BatteryCapacity": 0.00,
+        "BodyStyle": {
+            "BodyStyle": "Bakkie/Pickup",
+            "BodyStyle_UID": "b6b6f93f-81ee-ea11-a965-00155d0aea69"
+        },
+        "CO2Emission": 0,
+        "Colour": "WHITE",
+        "ColourGroup": " WHITE",
+        "ColourGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "DaysInStock": 27,
+        "DaysInStockGroup": 27,
+        "Discount": 0.00,
+        "DriveType": 1,
+        "ElectricRange": 0.0,
+        "EnergyConsumption": 0.00,
+        "EngineNumber": "DD2SXPU21130",
+        "EngineSize": 3000,
+        "EstimatedDeliveryDate": "2024-06-04T00:00:00",
+        "FleetOrderNumber": "",
+        "FuelType": {
+            "FuelType": "Petrol",
+            "FuelType_UID": "30757bab-4e10-4660-a078-efc3844f5854"
+        },
+        "HasServiceHistory": true,
+        "Images": [
+            {
+                "Entity_UID": "61cbbeba-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 1,
+                "Image_UID": "519da092-c452-42e7-bda7-e8883d74feb2",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/519da092-c452-42e7-bda7-e8883d74feb2.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "61cbbeba-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 2,
+                "Image_UID": "80e88fd5-b5eb-4bf0-a226-8e6d98c69b56",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/80e88fd5-b5eb-4bf0-a226-8e6d98c69b56.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "61cbbeba-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 3,
+                "Image_UID": "e9e55144-04f3-4a49-b6b9-cac14ade096f",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/e9e55144-04f3-4a49-b6b9-cac14ade096f.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "61cbbeba-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 4,
+                "Image_UID": "bdd345ae-20a7-4fb4-a409-b492b4d00f20",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/bdd345ae-20a7-4fb4-a409-b492b4d00f20.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "61cbbeba-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 5,
+                "Image_UID": "f5f9bc08-e15b-4484-957c-6e6372068e6a",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/f5f9bc08-e15b-4484-957c-6e6372068e6a.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "61cbbeba-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 6,
+                "Image_UID": "4a94de32-5d28-4dee-9408-7f03d45a185b",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/4a94de32-5d28-4dee-9408-7f03d45a185b.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "61cbbeba-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 7,
+                "Image_UID": "bf5b14ee-d2c5-4063-8652-6713c53f09f0",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/bf5b14ee-d2c5-4063-8652-6713c53f09f0.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "61cbbeba-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 8,
+                "Image_UID": "fab6a96b-c3a8-4571-93b3-1c1ec9c83693",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/fab6a96b-c3a8-4571-93b3-1c1ec9c83693.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "61cbbeba-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 9,
+                "Image_UID": "a5061a10-ac44-4f3e-8b6a-f778d527664b",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/a5061a10-ac44-4f3e-8b6a-f778d527664b.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "61cbbeba-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 10,
+                "Image_UID": "86e5db8a-892b-4def-b114-757fa7c083b5",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/86e5db8a-892b-4def-b114-757fa7c083b5.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "61cbbeba-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 11,
+                "Image_UID": "7149aeec-5b32-4278-b1fc-cb92ce0b45ff",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/7149aeec-5b32-4278-b1fc-cb92ce0b45ff.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "61cbbeba-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 12,
+                "Image_UID": "4e228052-9dce-440d-b1b7-a1a48e8ca07f",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/4e228052-9dce-440d-b1b7-a1a48e8ca07f.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "61cbbeba-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 13,
+                "Image_UID": "9ea029e2-b182-49ff-b42e-6dde62404cd7",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/9ea029e2-b182-49ff-b42e-6dde62404cd7.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "61cbbeba-5722-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 14,
+                "Image_UID": "e32e88e2-5d96-456b-86c3-48ed9b9659f0",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/e32e88e2-5d96-456b-86c3-48ed9b9659f0.jpg?",
+                "ImageWidth": 1280
+            }
+        ],
+        "Interior": {
+            "Interior": "Cloth",
+            "Interior_UID": "79ebbc56-fce4-422d-afc6-2d7cf0e44327"
+        },
+        "InternalNotes": null,
+        "InternetNotes": "",
+        "InternetPrice": 1250000.00,
+        "InvoiceGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "IsNew": false,
+        "IsQualifying": true,
+        "IsReserved": false,
+        "Location": "Used Showroom",
+        "Make": {
+            "FranchiseModel": null,
+            "FriendlyDescription": null,
+            "Make": "Ford",
+            "Make_UID": "6b7d48e8-a808-e211-8af1-00155d0a2c00"
+        },
+        "ManufacturerCode": null,
+        "ManufacturerRecommendedRetailPrice": 0.00,
+        "Model": {
+            "FriendlyDescription": null,
+            "Make_UID": "6b7d48e8-a808-e211-8af1-00155d0a2c00",
+            "Model": "Ranger",
+            "Model_UID": "6c7d48e8-a808-e211-8af1-00155d0a2c00"
+        },
+        "ModelYear": 2024,
+        "Odometer": 1200,
+        "OdometerFull": 0,
+        "Options": [],
+        "OrganisationalUnit": {
+            "Address": {
+                "Address1": "73 Spoorweg Street",
+                "Address2": "",
+                "Address3": "",
+                "CompanyName": null,
+                "Country": null,
+                "County": "North West",
+                "PostCode": "0250",
+                "PostTown": "Brits",
+                "IsPostOfficeBox": null
+            },
+            "Description": "Penta Now Brits",
+            "EmailAddress": "brits@now.co.za",
+            "OrganisationalUnitLevel": 4,
+            "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+            "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+            "Telephone": ""
+        },
+        "PhotoCount": 14,
+        "PhysicalLocation": {
+            "DealerCode": "",
+            "Description": "Penta Now Brits",
+            "Location_UID": "00000000-0000-0000-0000-000000000000",
+            "LocationDescription": "Used Showroom",
+            "OrganisationalUnit": {
+                "Address": {
+                    "Address1": "73 Spoorweg Street",
+                    "Address2": "",
+                    "Address3": "",
+                    "CompanyName": null,
+                    "Country": null,
+                    "County": "North West",
+                    "PostCode": "0250",
+                    "PostTown": "Brits",
+                    "IsPostOfficeBox": null
+                },
+                "Description": "Penta Now Brits",
+                "EmailAddress": "brits@now.co.za",
+                "OrganisationalUnitLevel": 4,
+                "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+                "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+                "Telephone": ""
+            },
+            "UID": "e40d13a9-7444-442e-9aea-8568022b3bc0"
+        },
+        "PreviousOwners": 0,
+        "Profiles": [
+            {
+                "AllowVehicleProfileChanges": false,
+                "Description": "Retail",
+                "ProfileType": 0,
+                "UID": "82747147-0ba4-4f34-9139-5f02105cb4b1"
+            }
+        ],
+        "RegistrationDate": "2024-04-24T00:00:00",
+        "RegistrationNumber": "21130",
+        "RetailPrice": 1250000.00,
+        "Specification": {
+            "Doors": 0,
+            "FriendlyDescription": null,
+            "ModelYear": 0,
+            "ModelYearSeries": "",
+            "ServiceIntervalDistance": 0,
+            "ServiceIntervalWeeks": 0,
+            "Specification": "3.0 V6 BI TURBO ECOBOOST RAPTOR 4X4 A/T",
+            "Specification_UID": "fc712abf-e01c-ef11-a7e3-0022481354d9"
+        },
+        "Status": 0,
+        "StockNumber": "UNB40",
+        "SupplierOrderNumber": "",
+        "Transmission": {
+            "Transmission": "Automatic",
+            "Transmission_UID": "ae61bfc6-e802-42c7-bb60-cef6e837395b"
+        },
+        "UnitOfDistance": 1,
+        "Vehicle_UID": "61cbbeba-5722-ef11-a7e3-0022481354d9",
+        "VehicleCode": "22035630",
+        "VehicleType": 1,
+        "VideoCount": 0,
+        "Videos": [],
+        "VIN": "6FPFXXMX2FPU21130"
+    },
+    {
+        "BasicPrice": 243391.30,
+        "BatteryCapacity": 0.00,
+        "BodyStyle": {
+            "BodyStyle": "Hatch",
+            "BodyStyle_UID": "9bbc91b2-f0b9-4b52-bc2d-712382db2c15"
+        },
+        "CO2Emission": 0,
+        "Colour": "Brown",
+        "ColourGroup": "Brown",
+        "ColourGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "DaysInStock": 27,
+        "DaysInStockGroup": 27,
+        "Discount": 0.00,
+        "DriveType": 1,
+        "ElectricRange": 0.0,
+        "EnergyConsumption": 0.00,
+        "EngineNumber": "K15BN4100591",
+        "EngineSize": 1500,
+        "EstimatedDeliveryDate": "2024-06-04T00:00:00",
+        "FleetOrderNumber": "",
+        "FuelType": {
+            "FuelType": "Petrol",
+            "FuelType_UID": "30757bab-4e10-4660-a078-efc3844f5854"
+        },
+        "HasServiceHistory": true,
+        "Images": [],
+        "Interior": {
+            "Interior": "Cloth",
+            "Interior_UID": "79ebbc56-fce4-422d-afc6-2d7cf0e44327"
+        },
+        "InternalNotes": null,
+        "InternetNotes": "",
+        "InternetPrice": 279900.00,
+        "InvoiceGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "IsNew": false,
+        "IsQualifying": true,
+        "IsReserved": false,
+        "Location": "Used Showroom",
+        "Make": {
+            "FranchiseModel": null,
+            "FriendlyDescription": null,
+            "Make": "TOYOTA",
+            "Make_UID": "371353a2-a508-e211-8af1-00155d0a2c00"
+        },
+        "ManufacturerCode": null,
+        "ManufacturerRecommendedRetailPrice": 0.00,
+        "Model": {
+            "FriendlyDescription": null,
+            "Make_UID": "371353a2-a508-e211-8af1-00155d0a2c00",
+            "Model": "URBAN CRUISER",
+            "Model_UID": "875a9b01-56b6-ec11-a97b-00155d0a4c0a"
+        },
+        "ModelYear": 2021,
+        "Odometer": 53300,
+        "OdometerFull": 0,
+        "Options": [],
+        "OrganisationalUnit": {
+            "Address": {
+                "Address1": "73 Spoorweg Street",
+                "Address2": "",
+                "Address3": "",
+                "CompanyName": null,
+                "Country": null,
+                "County": "North West",
+                "PostCode": "0250",
+                "PostTown": "Brits",
+                "IsPostOfficeBox": null
+            },
+            "Description": "Penta Now Brits",
+            "EmailAddress": "brits@now.co.za",
+            "OrganisationalUnitLevel": 4,
+            "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+            "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+            "Telephone": ""
+        },
+        "PhotoCount": 0,
+        "PhysicalLocation": {
+            "DealerCode": "",
+            "Description": "Penta Now Brits",
+            "Location_UID": "00000000-0000-0000-0000-000000000000",
+            "LocationDescription": "Used Showroom",
+            "OrganisationalUnit": {
+                "Address": {
+                    "Address1": "73 Spoorweg Street",
+                    "Address2": "",
+                    "Address3": "",
+                    "CompanyName": null,
+                    "Country": null,
+                    "County": "North West",
+                    "PostCode": "0250",
+                    "PostTown": "Brits",
+                    "IsPostOfficeBox": null
+                },
+                "Description": "Penta Now Brits",
+                "EmailAddress": "brits@now.co.za",
+                "OrganisationalUnitLevel": 4,
+                "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+                "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+                "Telephone": ""
+            },
+            "UID": "e40d13a9-7444-442e-9aea-8568022b3bc0"
+        },
+        "PreviousOwners": 0,
+        "Profiles": [
+            {
+                "AllowVehicleProfileChanges": false,
+                "Description": "Retail",
+                "ProfileType": 0,
+                "UID": "82747147-0ba4-4f34-9139-5f02105cb4b1"
+            }
+        ],
+        "RegistrationDate": "2021-05-11T00:00:00",
+        "RegistrationNumber": "32422",
+        "RetailPrice": 279900.00,
+        "Specification": {
+            "Doors": 0,
+            "FriendlyDescription": null,
+            "ModelYear": 0,
+            "ModelYearSeries": "",
+            "ServiceIntervalDistance": 0,
+            "ServiceIntervalWeeks": 0,
+            "Specification": "URBAN CRUISER 1.5XR A/T",
+            "Specification_UID": "e2b2942f-4d4a-45fe-8f97-46bc86eeb31c"
+        },
+        "Status": 0,
+        "StockNumber": "UNB42",
+        "SupplierOrderNumber": "",
+        "Transmission": {
+            "Transmission": "Automatic",
+            "Transmission_UID": "ae61bfc6-e802-42c7-bb60-cef6e837395b"
+        },
+        "UnitOfDistance": 1,
+        "Vehicle_UID": "14ccfeee-5722-ef11-a7e3-0022481354d9",
+        "VehicleCode": "60012240",
+        "VehicleType": 1,
+        "VideoCount": 0,
+        "Videos": [],
+        "VIN": "JTDPYGJ1S00732422"
+    },
+    {
+        "BasicPrice": 191217.39,
+        "BatteryCapacity": 0.00,
+        "BodyStyle": {
+            "BodyStyle": "SUV",
+            "BodyStyle_UID": "806c3e51-3704-4f71-af8a-e01d209fccfe"
+        },
+        "CO2Emission": 0,
+        "Colour": "Silver",
+        "ColourGroup": "Silver",
+        "ColourGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "DaysInStock": 27,
+        "DaysInStockGroup": 27,
+        "Discount": 0.00,
+        "DriveType": 1,
+        "ElectricRange": 0.0,
+        "EnergyConsumption": 0.00,
+        "EngineNumber": "QR25264870M",
+        "EngineSize": 2500,
+        "EstimatedDeliveryDate": "2024-06-04T00:00:00",
+        "FleetOrderNumber": "",
+        "FuelType": {
+            "FuelType": "Petrol",
+            "FuelType_UID": "30757bab-4e10-4660-a078-efc3844f5854"
+        },
+        "HasServiceHistory": true,
+        "Images": [],
+        "Interior": {
+            "Interior": "Cloth",
+            "Interior_UID": "79ebbc56-fce4-422d-afc6-2d7cf0e44327"
+        },
+        "InternalNotes": null,
+        "InternetNotes": "",
+        "InternetPrice": 219900.00,
+        "InvoiceGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "IsNew": false,
+        "IsQualifying": true,
+        "IsReserved": false,
+        "Location": "Used Showroom",
+        "Make": {
+            "FranchiseModel": null,
+            "FriendlyDescription": null,
+            "Make": "NISSAN",
+            "Make_UID": "4b6c5d2a-781e-ef11-a7e3-0022481354d9"
+        },
+        "ManufacturerCode": null,
+        "ManufacturerRecommendedRetailPrice": 0.00,
+        "Model": {
+            "FriendlyDescription": null,
+            "Make_UID": "4b6c5d2a-781e-ef11-a7e3-0022481354d9",
+            "Model": "X TRAIL",
+            "Model_UID": "4e6c5d2a-781e-ef11-a7e3-0022481354d9"
+        },
+        "ModelYear": 2018,
+        "Odometer": 100000,
+        "OdometerFull": 0,
+        "Options": [],
+        "OrganisationalUnit": {
+            "Address": {
+                "Address1": "73 Spoorweg Street",
+                "Address2": "",
+                "Address3": "",
+                "CompanyName": null,
+                "Country": null,
+                "County": "North West",
+                "PostCode": "0250",
+                "PostTown": "Brits",
+                "IsPostOfficeBox": null
+            },
+            "Description": "Penta Now Brits",
+            "EmailAddress": "brits@now.co.za",
+            "OrganisationalUnitLevel": 4,
+            "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+            "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+            "Telephone": ""
+        },
+        "PhotoCount": 0,
+        "PhysicalLocation": {
+            "DealerCode": "",
+            "Description": "Penta Now Brits",
+            "Location_UID": "00000000-0000-0000-0000-000000000000",
+            "LocationDescription": "Used Showroom",
+            "OrganisationalUnit": {
+                "Address": {
+                    "Address1": "73 Spoorweg Street",
+                    "Address2": "",
+                    "Address3": "",
+                    "CompanyName": null,
+                    "Country": null,
+                    "County": "North West",
+                    "PostCode": "0250",
+                    "PostTown": "Brits",
+                    "IsPostOfficeBox": null
+                },
+                "Description": "Penta Now Brits",
+                "EmailAddress": "brits@now.co.za",
+                "OrganisationalUnitLevel": 4,
+                "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+                "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+                "Telephone": ""
+            },
+            "UID": "e40d13a9-7444-442e-9aea-8568022b3bc0"
+        },
+        "PreviousOwners": 0,
+        "Profiles": [
+            {
+                "AllowVehicleProfileChanges": false,
+                "Description": "Retail",
+                "ProfileType": 0,
+                "UID": "82747147-0ba4-4f34-9139-5f02105cb4b1"
+            }
+        ],
+        "RegistrationDate": "2018-07-05T00:00:00",
+        "RegistrationNumber": "10690",
+        "RetailPrice": 219900.00,
+        "Specification": {
+            "Doors": 0,
+            "FriendlyDescription": null,
+            "ModelYear": 0,
+            "ModelYearSeries": "",
+            "ServiceIntervalDistance": 0,
+            "ServiceIntervalWeeks": 0,
+            "Specification": "2.5 ACENTA 4X4 CVT",
+            "Specification_UID": "506c5d2a-781e-ef11-a7e3-0022481354d9"
+        },
+        "Status": 0,
+        "StockNumber": "UNB44",
+        "SupplierOrderNumber": "",
+        "Transmission": {
+            "Transmission": "Manual",
+            "Transmission_UID": "676b0760-acd2-4612-be76-c64c4db25047"
+        },
+        "UnitOfDistance": 1,
+        "Vehicle_UID": "f1e1661d-5822-ef11-a7e3-0022481354d9",
+        "VehicleCode": "47084272",
+        "VehicleType": 1,
+        "VideoCount": 0,
+        "Videos": [],
+        "VIN": "JN1TBNT32Z0010690"
+    },
+    {
+        "BasicPrice": 191217.39,
+        "BatteryCapacity": 0.00,
+        "BodyStyle": {
+            "BodyStyle": "Hatch",
+            "BodyStyle_UID": "9bbc91b2-f0b9-4b52-bc2d-712382db2c15"
+        },
+        "CO2Emission": 0,
+        "Colour": "Blue",
+        "ColourGroup": "Blue",
+        "ColourGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "DaysInStock": 27,
+        "DaysInStockGroup": 27,
+        "Discount": 0.00,
+        "DriveType": 1,
+        "ElectricRange": 0.0,
+        "EnergyConsumption": 0.00,
+        "EngineNumber": "CL387855",
+        "EngineSize": 1400,
+        "EstimatedDeliveryDate": "2024-06-04T00:00:00",
+        "FleetOrderNumber": "",
+        "FuelType": {
+            "FuelType": "Petrol",
+            "FuelType_UID": "30757bab-4e10-4660-a078-efc3844f5854"
+        },
+        "HasServiceHistory": true,
+        "Images": [],
+        "Interior": {
+            "Interior": "Black",
+            "Interior_UID": "a4b6f93f-81ee-ea11-a965-00155d0aea69"
+        },
+        "InternalNotes": null,
+        "InternetNotes": "",
+        "InternetPrice": 219900.00,
+        "InvoiceGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "IsNew": false,
+        "IsQualifying": true,
+        "IsReserved": false,
+        "Location": "Used Showroom",
+        "Make": {
+            "FranchiseModel": null,
+            "FriendlyDescription": null,
+            "Make": "Volkswagen",
+            "Make_UID": "bdc6a6fa-9e08-e211-8af1-00155d0a2c00"
+        },
+        "ManufacturerCode": null,
+        "ManufacturerRecommendedRetailPrice": 0.00,
+        "Model": {
+            "FriendlyDescription": null,
+            "Make_UID": "bdc6a6fa-9e08-e211-8af1-00155d0a2c00",
+            "Model": "Polo",
+            "Model_UID": "bec6a6fa-9e08-e211-8af1-00155d0a2c00"
+        },
+        "ModelYear": 2022,
+        "Odometer": 72000,
+        "OdometerFull": 0,
+        "Options": [],
+        "OrganisationalUnit": {
+            "Address": {
+                "Address1": "73 Spoorweg Street",
+                "Address2": "",
+                "Address3": "",
+                "CompanyName": null,
+                "Country": null,
+                "County": "North West",
+                "PostCode": "0250",
+                "PostTown": "Brits",
+                "IsPostOfficeBox": null
+            },
+            "Description": "Penta Now Brits",
+            "EmailAddress": "brits@now.co.za",
+            "OrganisationalUnitLevel": 4,
+            "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+            "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+            "Telephone": ""
+        },
+        "PhotoCount": 0,
+        "PhysicalLocation": {
+            "DealerCode": "",
+            "Description": "Penta Now Brits",
+            "Location_UID": "00000000-0000-0000-0000-000000000000",
+            "LocationDescription": "Used Showroom",
+            "OrganisationalUnit": {
+                "Address": {
+                    "Address1": "73 Spoorweg Street",
+                    "Address2": "",
+                    "Address3": "",
+                    "CompanyName": null,
+                    "Country": null,
+                    "County": "North West",
+                    "PostCode": "0250",
+                    "PostTown": "Brits",
+                    "IsPostOfficeBox": null
+                },
+                "Description": "Penta Now Brits",
+                "EmailAddress": "brits@now.co.za",
+                "OrganisationalUnitLevel": 4,
+                "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+                "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+                "Telephone": ""
+            },
+            "UID": "e40d13a9-7444-442e-9aea-8568022b3bc0"
+        },
+        "PreviousOwners": 0,
+        "Profiles": [
+            {
+                "AllowVehicleProfileChanges": false,
+                "Description": "Retail",
+                "ProfileType": 0,
+                "UID": "82747147-0ba4-4f34-9139-5f02105cb4b1"
+            }
+        ],
+        "RegistrationDate": "2022-01-04T00:00:00",
+        "RegistrationNumber": "04571",
+        "RetailPrice": 219900.00,
+        "Specification": {
+            "Doors": 0,
+            "FriendlyDescription": null,
+            "ModelYear": 0,
+            "ModelYearSeries": "",
+            "ServiceIntervalDistance": 0,
+            "ServiceIntervalWeeks": 0,
+            "Specification": "VIVO 1.4 TRENDLINE",
+            "Specification_UID": "5e43fd48-98c6-e611-80f2-00155d655732"
+        },
+        "Status": 0,
+        "StockNumber": "UNB45",
+        "SupplierOrderNumber": "",
+        "Transmission": {
+            "Transmission": "Manual",
+            "Transmission_UID": "676b0760-acd2-4612-be76-c64c4db25047"
+        },
+        "UnitOfDistance": 1,
+        "Vehicle_UID": "25d82337-5822-ef11-a7e3-0022481354d9",
+        "VehicleCode": "64020510",
+        "VehicleType": 1,
+        "VideoCount": 0,
+        "Videos": [],
+        "VIN": "AAVZZZ6RZNU004571"
+    },
+    {
+        "BasicPrice": 399913.04,
+        "BatteryCapacity": 0.00,
+        "BodyStyle": {
+            "BodyStyle": "Bakkie/Pickup",
+            "BodyStyle_UID": "b6b6f93f-81ee-ea11-a965-00155d0aea69"
+        },
+        "CO2Emission": 0,
+        "Colour": "WHITE",
+        "ColourGroup": " WHITE",
+        "ColourGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "DaysInStock": 25,
+        "DaysInStockGroup": 25,
+        "Discount": 0.00,
+        "DriveType": 1,
+        "ElectricRange": 0.0,
+        "EnergyConsumption": 0.00,
+        "EngineNumber": "WYN4L10275",
+        "EngineSize": 2200,
+        "EstimatedDeliveryDate": "2024-06-07T00:00:00",
+        "FleetOrderNumber": "",
+        "FuelType": {
+            "FuelType": "Diesel",
+            "FuelType_UID": "b64e2732-9af8-410a-8027-1222e99c1b6f"
+        },
+        "HasServiceHistory": true,
+        "Images": [
+            {
+                "Entity_UID": "9eab2168-e823-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 1,
+                "Image_UID": "54dc3ba7-f320-4681-a454-301b11f301f1",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/54dc3ba7-f320-4681-a454-301b11f301f1.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "9eab2168-e823-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 2,
+                "Image_UID": "54db2b92-9b43-47cb-bb55-cfbfb4c8fd3b",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/54db2b92-9b43-47cb-bb55-cfbfb4c8fd3b.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "9eab2168-e823-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 3,
+                "Image_UID": "7bba70a1-ac0d-4b42-9693-2e94468b82df",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/7bba70a1-ac0d-4b42-9693-2e94468b82df.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "9eab2168-e823-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 4,
+                "Image_UID": "297d8bed-2d4e-4cc7-bb8a-a4c6f73869d3",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/297d8bed-2d4e-4cc7-bb8a-a4c6f73869d3.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "9eab2168-e823-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 5,
+                "Image_UID": "cf76ce2f-3aad-428a-b3bf-f83e3aa5cc46",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/cf76ce2f-3aad-428a-b3bf-f83e3aa5cc46.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "9eab2168-e823-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 6,
+                "Image_UID": "f4015dd2-415e-48c9-8b35-feae0d06b196",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/f4015dd2-415e-48c9-8b35-feae0d06b196.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "9eab2168-e823-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 7,
+                "Image_UID": "765fc8e2-073e-4f69-b956-bf08f62a0292",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/765fc8e2-073e-4f69-b956-bf08f62a0292.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "9eab2168-e823-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 8,
+                "Image_UID": "dc98a1bb-40aa-461c-bdba-c4270165fb26",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/dc98a1bb-40aa-461c-bdba-c4270165fb26.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "9eab2168-e823-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 9,
+                "Image_UID": "e0d3a45b-0314-4541-9cb0-cf34c2f8d0a6",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/e0d3a45b-0314-4541-9cb0-cf34c2f8d0a6.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "9eab2168-e823-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 10,
+                "Image_UID": "82565d9e-d884-4fc6-90eb-d9ff51101258",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/82565d9e-d884-4fc6-90eb-d9ff51101258.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "9eab2168-e823-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 11,
+                "Image_UID": "9ce3d60f-614a-4ced-9005-0b7a0372bd8f",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/9ce3d60f-614a-4ced-9005-0b7a0372bd8f.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "9eab2168-e823-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 12,
+                "Image_UID": "ac3973b8-91ed-42eb-950d-1e076ef6b354",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/ac3973b8-91ed-42eb-950d-1e076ef6b354.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "9eab2168-e823-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 13,
+                "Image_UID": "30d642c2-ac42-40bb-a721-64bd523c8c54",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/30d642c2-ac42-40bb-a721-64bd523c8c54.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "9eab2168-e823-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 14,
+                "Image_UID": "93f522ef-b19b-4d60-9998-60d0c18be96b",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/93f522ef-b19b-4d60-9998-60d0c18be96b.jpg?",
+                "ImageWidth": 1440
+            }
+        ],
+        "Interior": {
+            "Interior": "Cloth",
+            "Interior_UID": "79ebbc56-fce4-422d-afc6-2d7cf0e44327"
+        },
+        "InternalNotes": null,
+        "InternetNotes": "",
+        "InternetPrice": 459900.00,
+        "InvoiceGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "IsNew": false,
+        "IsQualifying": true,
+        "IsReserved": false,
+        "Location": "Used Showroom",
+        "Make": {
+            "FranchiseModel": null,
+            "FriendlyDescription": null,
+            "Make": "MAHINDRA",
+            "Make_UID": "cb849aa2-66c5-e311-89d8-00155d1e0e1e"
+        },
+        "ManufacturerCode": null,
+        "ManufacturerRecommendedRetailPrice": 0.00,
+        "Model": {
+            "FriendlyDescription": null,
+            "Make_UID": "cb849aa2-66c5-e311-89d8-00155d1e0e1e",
+            "Model": "SCORPIO / PIK UP",
+            "Model_UID": "fe3cb7b1-b901-e811-80df-00155d141346"
+        },
+        "ModelYear": 2023,
+        "Odometer": 25000,
+        "OdometerFull": 25000,
+        "Options": [],
+        "OrganisationalUnit": {
+            "Address": {
+                "Address1": "73 Spoorweg Street",
+                "Address2": "",
+                "Address3": "",
+                "CompanyName": null,
+                "Country": null,
+                "County": "North West",
+                "PostCode": "0250",
+                "PostTown": "Brits",
+                "IsPostOfficeBox": null
+            },
+            "Description": "Penta Now Brits",
+            "EmailAddress": "brits@now.co.za",
+            "OrganisationalUnitLevel": 4,
+            "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+            "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+            "Telephone": ""
+        },
+        "PhotoCount": 14,
+        "PhysicalLocation": {
+            "DealerCode": "",
+            "Description": "Penta Now Brits",
+            "Location_UID": "00000000-0000-0000-0000-000000000000",
+            "LocationDescription": "Used Showroom",
+            "OrganisationalUnit": {
+                "Address": {
+                    "Address1": "73 Spoorweg Street",
+                    "Address2": "",
+                    "Address3": "",
+                    "CompanyName": null,
+                    "Country": null,
+                    "County": "North West",
+                    "PostCode": "0250",
+                    "PostTown": "Brits",
+                    "IsPostOfficeBox": null
+                },
+                "Description": "Penta Now Brits",
+                "EmailAddress": "brits@now.co.za",
+                "OrganisationalUnitLevel": 4,
+                "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+                "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+                "Telephone": ""
+            },
+            "UID": "e40d13a9-7444-442e-9aea-8568022b3bc0"
+        },
+        "PreviousOwners": 0,
+        "Profiles": [
+            {
+                "AllowVehicleProfileChanges": false,
+                "Description": "Retail",
+                "ProfileType": 0,
+                "UID": "82747147-0ba4-4f34-9139-5f02105cb4b1"
+            }
+        ],
+        "RegistrationDate": "2023-06-15T00:00:00",
+        "RegistrationNumber": "LF43TVGP",
+        "RetailPrice": 459900.00,
+        "Specification": {
+            "Doors": 3,
+            "FriendlyDescription": null,
+            "ModelYear": 0,
+            "ModelYearSeries": "",
+            "ServiceIntervalDistance": 0,
+            "ServiceIntervalWeeks": 0,
+            "Specification": "PIK UP 2.2 mHAWK S11 4X4 A/T P/U D/C",
+            "Specification_UID": "7baf237d-b8a9-eb11-a96e-00155d0ae606"
+        },
+        "Status": 0,
+        "StockNumber": "UNB48",
+        "SupplierOrderNumber": "23613",
+        "Transmission": {
+            "Transmission": "Automatic",
+            "Transmission_UID": "ae61bfc6-e802-42c7-bb60-cef6e837395b"
+        },
+        "UnitOfDistance": 1,
+        "Vehicle_UID": "9eab2168-e823-ef11-a7e3-0022481354d9",
+        "VehicleCode": "41514118",
+        "VehicleType": 1,
+        "VideoCount": 0,
+        "Videos": [],
+        "VIN": "MA1RC4WYPP2023613"
+    },
+    {
+        "BasicPrice": 443391.30,
+        "BatteryCapacity": 0.00,
+        "BodyStyle": {
+            "BodyStyle": "Bakkie/Pickup",
+            "BodyStyle_UID": "b6b6f93f-81ee-ea11-a965-00155d0aea69"
+        },
+        "CO2Emission": 0,
+        "Colour": "Grey",
+        "ColourGroup": "Grey",
+        "ColourGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "DaysInStock": 21,
+        "DaysInStockGroup": 25,
+        "Discount": 0.00,
+        "DriveType": 1,
+        "ElectricRange": 0.0,
+        "EnergyConsumption": 0.00,
+        "EngineNumber": "CSH246434",
+        "EngineSize": 0,
+        "EstimatedDeliveryDate": "2024-06-06T00:00:00",
+        "FleetOrderNumber": "",
+        "FuelType": {
+            "FuelType": "Diesel",
+            "FuelType_UID": "b64e2732-9af8-410a-8027-1222e99c1b6f"
+        },
+        "HasServiceHistory": true,
+        "Images": [
+            {
+                "Entity_UID": "dcc0331d-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 1,
+                "Image_UID": "fc472b65-cf85-4587-869f-d5e4f9e38370",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/fc472b65-cf85-4587-869f-d5e4f9e38370.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "dcc0331d-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 2,
+                "Image_UID": "8014dac2-e724-4df5-9a8c-411bb75eaef1",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/8014dac2-e724-4df5-9a8c-411bb75eaef1.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "dcc0331d-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 3,
+                "Image_UID": "5662ff44-ab6d-4f40-be33-521be99956a3",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/5662ff44-ab6d-4f40-be33-521be99956a3.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "dcc0331d-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 4,
+                "Image_UID": "955073fb-b950-4058-bfde-41ddceadcbd5",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/955073fb-b950-4058-bfde-41ddceadcbd5.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "dcc0331d-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 5,
+                "Image_UID": "308f3b34-8e3e-4786-a14e-ce0dcf660231",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/308f3b34-8e3e-4786-a14e-ce0dcf660231.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "dcc0331d-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 6,
+                "Image_UID": "1cfdae78-81cc-4997-b911-08d6cf51627b",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/1cfdae78-81cc-4997-b911-08d6cf51627b.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "dcc0331d-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 7,
+                "Image_UID": "9a84ac35-8354-4a00-b3d4-43a7726e8b8c",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/9a84ac35-8354-4a00-b3d4-43a7726e8b8c.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "dcc0331d-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 8,
+                "Image_UID": "36c0aa23-536d-4248-930d-a8d33b94a6d3",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/36c0aa23-536d-4248-930d-a8d33b94a6d3.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "dcc0331d-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 9,
+                "Image_UID": "9dc35d0e-fbd6-4c22-b302-d161f29a404a",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/9dc35d0e-fbd6-4c22-b302-d161f29a404a.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "dcc0331d-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 10,
+                "Image_UID": "dd719553-39d1-448f-afb8-1cd1ce7c032e",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/dd719553-39d1-448f-afb8-1cd1ce7c032e.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "dcc0331d-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 11,
+                "Image_UID": "94047772-158b-4637-9450-bb9a1ef5bf59",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/94047772-158b-4637-9450-bb9a1ef5bf59.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "dcc0331d-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 12,
+                "Image_UID": "fd8bd6c9-7472-466c-bad6-f019de84fa2b",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/fd8bd6c9-7472-466c-bad6-f019de84fa2b.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "dcc0331d-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 13,
+                "Image_UID": "026aac7d-4507-49f3-8733-b78ab8445a27",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/026aac7d-4507-49f3-8733-b78ab8445a27.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "dcc0331d-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 14,
+                "Image_UID": "f7e47280-bfdd-465d-864c-2488e1536046",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/f7e47280-bfdd-465d-864c-2488e1536046.jpg?",
+                "ImageWidth": 1280
+            }
+        ],
+        "Interior": {
+            "Interior": "Cloth",
+            "Interior_UID": "79ebbc56-fce4-422d-afc6-2d7cf0e44327"
+        },
+        "InternalNotes": null,
+        "InternetNotes": "",
+        "InternetPrice": 509900.00,
+        "InvoiceGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "IsNew": false,
+        "IsQualifying": true,
+        "IsReserved": false,
+        "Location": "Used Showroom",
+        "Make": {
+            "FranchiseModel": null,
+            "FriendlyDescription": null,
+            "Make": "Volkswagen",
+            "Make_UID": "bdc6a6fa-9e08-e211-8af1-00155d0a2c00"
+        },
+        "ManufacturerCode": null,
+        "ManufacturerRecommendedRetailPrice": 0.00,
+        "Model": {
+            "FriendlyDescription": null,
+            "Make_UID": "bdc6a6fa-9e08-e211-8af1-00155d0a2c00",
+            "Model": "AMAROK",
+            "Model_UID": "b616c0af-c247-e411-9bfb-00155d1e0e1e"
+        },
+        "ModelYear": 2021,
+        "Odometer": 123800,
+        "OdometerFull": 0,
+        "Options": [],
+        "OrganisationalUnit": {
+            "Address": {
+                "Address1": "73 Spoorweg Street",
+                "Address2": "",
+                "Address3": "",
+                "CompanyName": null,
+                "Country": null,
+                "County": "North West",
+                "PostCode": "0250",
+                "PostTown": "Brits",
+                "IsPostOfficeBox": null
+            },
+            "Description": "Penta Now Brits",
+            "EmailAddress": "brits@now.co.za",
+            "OrganisationalUnitLevel": 4,
+            "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+            "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+            "Telephone": ""
+        },
+        "PhotoCount": 14,
+        "PhysicalLocation": {
+            "DealerCode": "",
+            "Description": "Penta Now Brits",
+            "Location_UID": "00000000-0000-0000-0000-000000000000",
+            "LocationDescription": "Used Showroom",
+            "OrganisationalUnit": {
+                "Address": {
+                    "Address1": "73 Spoorweg Street",
+                    "Address2": "",
+                    "Address3": "",
+                    "CompanyName": null,
+                    "Country": null,
+                    "County": "North West",
+                    "PostCode": "0250",
+                    "PostTown": "Brits",
+                    "IsPostOfficeBox": null
+                },
+                "Description": "Penta Now Brits",
+                "EmailAddress": "brits@now.co.za",
+                "OrganisationalUnitLevel": 4,
+                "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+                "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+                "Telephone": ""
+            },
+            "UID": "e40d13a9-7444-442e-9aea-8568022b3bc0"
+        },
+        "PreviousOwners": 0,
+        "Profiles": [
+            {
+                "AllowVehicleProfileChanges": false,
+                "Description": "Retail",
+                "ProfileType": 0,
+                "UID": "82747147-0ba4-4f34-9139-5f02105cb4b1"
+            }
+        ],
+        "RegistrationDate": "2021-08-04T00:00:00",
+        "RegistrationNumber": "JBX708K",
+        "RetailPrice": 509900.00,
+        "Specification": {
+            "Doors": 3,
+            "FriendlyDescription": null,
+            "ModelYear": 0,
+            "ModelYearSeries": "",
+            "ServiceIntervalDistance": 0,
+            "ServiceIntervalWeeks": 0,
+            "Specification": "AMAROK 2.0 BiTDi HIGHLINE 132KW A/T D/C P/U",
+            "Specification_UID": "28677a8a-4d57-e811-80e9-00155d655755"
+        },
+        "Status": 0,
+        "StockNumber": "UNB49",
+        "SupplierOrderNumber": "29626",
+        "Transmission": {
+            "Transmission": "Automatic",
+            "Transmission_UID": "ae61bfc6-e802-42c7-bb60-cef6e837395b"
+        },
+        "UnitOfDistance": 1,
+        "Vehicle_UID": "dcc0331d-f923-ef11-a7e3-0022481354d9",
+        "VehicleCode": "64072411",
+        "VehicleType": 2,
+        "VideoCount": 0,
+        "Videos": [],
+        "VIN": "WV1ZZZ2HZMA029626"
+    },
+    {
+        "BasicPrice": 243391.30,
+        "BatteryCapacity": 0.00,
+        "BodyStyle": {
+            "BodyStyle": "",
+            "BodyStyle_UID": "b5b6f93f-81ee-ea11-a965-00155d0aea69"
+        },
+        "CO2Emission": 0,
+        "Colour": "White",
+        "ColourGroup": "White",
+        "ColourGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "DaysInStock": 21,
+        "DaysInStockGroup": 21,
+        "Discount": 0.00,
+        "DriveType": 1,
+        "ElectricRange": 0.0,
+        "EnergyConsumption": 0.00,
+        "EngineNumber": "LL59809",
+        "EngineSize": 0,
+        "EstimatedDeliveryDate": "2024-06-06T00:00:00",
+        "FleetOrderNumber": "",
+        "FuelType": {
+            "FuelType": "",
+            "FuelType_UID": "00000000-0000-0000-0000-000000000000"
+        },
+        "HasServiceHistory": true,
+        "Images": [
+            {
+                "Entity_UID": "d58be5b7-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 1,
+                "Image_UID": "910309f7-7fdc-47ee-ae4d-75b11e5e6c17",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/910309f7-7fdc-47ee-ae4d-75b11e5e6c17.jpg?",
+                "ImageWidth": 1020
+            },
+            {
+                "Entity_UID": "d58be5b7-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 2,
+                "Image_UID": "a09c397d-5b30-4efc-ac63-1566ebc3f82b",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/a09c397d-5b30-4efc-ac63-1566ebc3f82b.jpg?",
+                "ImageWidth": 1020
+            },
+            {
+                "Entity_UID": "d58be5b7-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 3,
+                "Image_UID": "c748567c-1001-4d3b-83fb-4d02cc20a782",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/c748567c-1001-4d3b-83fb-4d02cc20a782.jpg?",
+                "ImageWidth": 1020
+            },
+            {
+                "Entity_UID": "d58be5b7-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 4,
+                "Image_UID": "531e1880-f7a1-4c56-a16a-451c7e709f85",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/531e1880-f7a1-4c56-a16a-451c7e709f85.jpg?",
+                "ImageWidth": 1020
+            },
+            {
+                "Entity_UID": "d58be5b7-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 5,
+                "Image_UID": "6317c7b6-d50a-4ee1-845b-76ee1564c79d",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/6317c7b6-d50a-4ee1-845b-76ee1564c79d.jpg?",
+                "ImageWidth": 1020
+            },
+            {
+                "Entity_UID": "d58be5b7-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 6,
+                "Image_UID": "56139cad-4b36-4ced-bdb6-53472f08328a",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/56139cad-4b36-4ced-bdb6-53472f08328a.jpg?",
+                "ImageWidth": 1020
+            },
+            {
+                "Entity_UID": "d58be5b7-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 7,
+                "Image_UID": "d40f5145-929c-4541-90f9-807eb50ecd98",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/d40f5145-929c-4541-90f9-807eb50ecd98.jpg?",
+                "ImageWidth": 1020
+            },
+            {
+                "Entity_UID": "d58be5b7-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 8,
+                "Image_UID": "695db195-7ccc-4c23-91bc-c88bee2d38ea",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/695db195-7ccc-4c23-91bc-c88bee2d38ea.jpg?",
+                "ImageWidth": 1020
+            },
+            {
+                "Entity_UID": "d58be5b7-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 9,
+                "Image_UID": "65406b0e-c31a-4579-88d6-2dfe200ba166",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/65406b0e-c31a-4579-88d6-2dfe200ba166.jpg?",
+                "ImageWidth": 1020
+            },
+            {
+                "Entity_UID": "d58be5b7-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 10,
+                "Image_UID": "379c4aeb-6332-4256-9d2d-1199b5040cdf",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/379c4aeb-6332-4256-9d2d-1199b5040cdf.jpg?",
+                "ImageWidth": 1020
+            },
+            {
+                "Entity_UID": "d58be5b7-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 11,
+                "Image_UID": "925832ad-02c0-4dc1-a4df-27da9adf8af1",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/925832ad-02c0-4dc1-a4df-27da9adf8af1.jpg?",
+                "ImageWidth": 1020
+            },
+            {
+                "Entity_UID": "d58be5b7-f923-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 12,
+                "Image_UID": "6c9250f6-bd50-43d1-a36c-e6e93cf888e6",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/6c9250f6-bd50-43d1-a36c-e6e93cf888e6.jpg?",
+                "ImageWidth": 1020
+            }
+        ],
+        "Interior": {
+            "Interior": "Cloth",
+            "Interior_UID": "79ebbc56-fce4-422d-afc6-2d7cf0e44327"
+        },
+        "InternalNotes": null,
+        "InternetNotes": "",
+        "InternetPrice": 279900.00,
+        "InvoiceGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "IsNew": false,
+        "IsQualifying": true,
+        "IsReserved": false,
+        "Location": "Used Showroom",
+        "Make": {
+            "FranchiseModel": null,
+            "FriendlyDescription": null,
+            "Make": "Ford",
+            "Make_UID": "6b7d48e8-a808-e211-8af1-00155d0a2c00"
+        },
+        "ManufacturerCode": null,
+        "ManufacturerRecommendedRetailPrice": 0.00,
+        "Model": {
+            "FriendlyDescription": null,
+            "Make_UID": "6b7d48e8-a808-e211-8af1-00155d0a2c00",
+            "Model": "Ecosport",
+            "Model_UID": "cdbacf70-793b-e511-872c-00155d655721"
+        },
+        "ModelYear": 2021,
+        "Odometer": 60000,
+        "OdometerFull": 0,
+        "Options": [],
+        "OrganisationalUnit": {
+            "Address": {
+                "Address1": "73 Spoorweg Street",
+                "Address2": "",
+                "Address3": "",
+                "CompanyName": null,
+                "Country": null,
+                "County": "North West",
+                "PostCode": "0250",
+                "PostTown": "Brits",
+                "IsPostOfficeBox": null
+            },
+            "Description": "Penta Now Brits",
+            "EmailAddress": "brits@now.co.za",
+            "OrganisationalUnitLevel": 4,
+            "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+            "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+            "Telephone": ""
+        },
+        "PhotoCount": 12,
+        "PhysicalLocation": {
+            "DealerCode": "",
+            "Description": "Penta Now Brits",
+            "Location_UID": "00000000-0000-0000-0000-000000000000",
+            "LocationDescription": "Used Showroom",
+            "OrganisationalUnit": {
+                "Address": {
+                    "Address1": "73 Spoorweg Street",
+                    "Address2": "",
+                    "Address3": "",
+                    "CompanyName": null,
+                    "Country": null,
+                    "County": "North West",
+                    "PostCode": "0250",
+                    "PostTown": "Brits",
+                    "IsPostOfficeBox": null
+                },
+                "Description": "Penta Now Brits",
+                "EmailAddress": "brits@now.co.za",
+                "OrganisationalUnitLevel": 4,
+                "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+                "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+                "Telephone": ""
+            },
+            "UID": "e40d13a9-7444-442e-9aea-8568022b3bc0"
+        },
+        "PreviousOwners": 0,
+        "Profiles": [
+            {
+                "AllowVehicleProfileChanges": false,
+                "Description": "Retail",
+                "ProfileType": 0,
+                "UID": "82747147-0ba4-4f34-9139-5f02105cb4b1"
+            }
+        ],
+        "RegistrationDate": "2021-08-04T00:00:00",
+        "RegistrationNumber": "CGS371X",
+        "RetailPrice": 279900.00,
+        "Specification": {
+            "Doors": 0,
+            "FriendlyDescription": null,
+            "ModelYear": 0,
+            "ModelYearSeries": "",
+            "ServiceIntervalDistance": 0,
+            "ServiceIntervalWeeks": 0,
+            "Specification": "ECOSPORT 1.0 ECOBOOST TITANIUM A/T",
+            "Specification_UID": "b85a7e2a-4765-eb11-a969-00155d0aa302"
+        },
+        "Status": 0,
+        "StockNumber": "UNB50",
+        "SupplierOrderNumber": "59809",
+        "Transmission": {
+            "Transmission": "Automatic",
+            "Transmission_UID": "ae61bfc6-e802-42c7-bb60-cef6e837395b"
+        },
+        "UnitOfDistance": 1,
+        "Vehicle_UID": "d58be5b7-f923-ef11-a7e3-0022481354d9",
+        "VehicleCode": "22048150",
+        "VehicleType": 1,
+        "VideoCount": 0,
+        "Videos": [],
+        "VIN": "WF01XXERK1LL59809"
+    },
+    {
+        "BasicPrice": 347739.13,
+        "BatteryCapacity": 0.00,
+        "BodyStyle": {
+            "BodyStyle": "SUV",
+            "BodyStyle_UID": "806c3e51-3704-4f71-af8a-e01d209fccfe"
+        },
+        "CO2Emission": 0,
+        "Colour": "TURQUOISE/BLACK",
+        "ColourGroup": "Torque Blue (ZTG)",
+        "ColourGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "DaysInStock": 18,
+        "DaysInStockGroup": 18,
+        "Discount": 0.00,
+        "DriveType": 1,
+        "ElectricRange": 0.0,
+        "EnergyConsumption": 0.00,
+        "EngineNumber": "M16A2410029",
+        "EngineSize": 1600,
+        "EstimatedDeliveryDate": "2024-06-11T00:00:00",
+        "FleetOrderNumber": "",
+        "FuelType": {
+            "FuelType": "Petrol",
+            "FuelType_UID": "30757bab-4e10-4660-a078-efc3844f5854"
+        },
+        "HasServiceHistory": true,
+        "Images": [],
+        "Interior": {
+            "Interior": "Cloth",
+            "Interior_UID": "79ebbc56-fce4-422d-afc6-2d7cf0e44327"
+        },
+        "InternalNotes": null,
+        "InternetNotes": "",
+        "InternetPrice": 399900.00,
+        "InvoiceGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "IsNew": false,
+        "IsQualifying": true,
+        "IsReserved": false,
+        "Location": "Used Showroom",
+        "Make": {
+            "FranchiseModel": null,
+            "FriendlyDescription": null,
+            "Make": "Suzuki",
+            "Make_UID": "a8a2d50e-2502-e211-8af1-00155d0a2c00"
+        },
+        "ManufacturerCode": null,
+        "ManufacturerRecommendedRetailPrice": 0.00,
+        "Model": {
+            "FriendlyDescription": null,
+            "Make_UID": "a8a2d50e-2502-e211-8af1-00155d0a2c00",
+            "Model": "Vitara",
+            "Model_UID": "f130cf0a-5672-e511-80cc-00155d655724"
+        },
+        "ModelYear": 2024,
+        "Odometer": 5,
+        "OdometerFull": 0,
+        "Options": [],
+        "OrganisationalUnit": {
+            "Address": {
+                "Address1": "73 Spoorweg Street",
+                "Address2": "",
+                "Address3": "",
+                "CompanyName": null,
+                "Country": null,
+                "County": "North West",
+                "PostCode": "0250",
+                "PostTown": "Brits",
+                "IsPostOfficeBox": null
+            },
+            "Description": "Penta Now Brits",
+            "EmailAddress": "brits@now.co.za",
+            "OrganisationalUnitLevel": 4,
+            "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+            "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+            "Telephone": ""
+        },
+        "PhotoCount": 0,
+        "PhysicalLocation": {
+            "DealerCode": "",
+            "Description": "Penta Now Brits",
+            "Location_UID": "00000000-0000-0000-0000-000000000000",
+            "LocationDescription": "Used Showroom",
+            "OrganisationalUnit": {
+                "Address": {
+                    "Address1": "73 Spoorweg Street",
+                    "Address2": "",
+                    "Address3": "",
+                    "CompanyName": null,
+                    "Country": null,
+                    "County": "North West",
+                    "PostCode": "0250",
+                    "PostTown": "Brits",
+                    "IsPostOfficeBox": null
+                },
+                "Description": "Penta Now Brits",
+                "EmailAddress": "brits@now.co.za",
+                "OrganisationalUnitLevel": 4,
+                "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+                "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+                "Telephone": ""
+            },
+            "UID": "e40d13a9-7444-442e-9aea-8568022b3bc0"
+        },
+        "PreviousOwners": 0,
+        "Profiles": [
+            {
+                "AllowVehicleProfileChanges": false,
+                "Description": "Retail",
+                "ProfileType": 0,
+                "UID": "82747147-0ba4-4f34-9139-5f02105cb4b1"
+            }
+        ],
+        "RegistrationDate": "0001-01-01T00:00:00",
+        "RegistrationNumber": "51513",
+        "RetailPrice": 399900.00,
+        "Specification": {
+            "Doors": 0,
+            "FriendlyDescription": null,
+            "ModelYear": 0,
+            "ModelYearSeries": "",
+            "ServiceIntervalDistance": 0,
+            "ServiceIntervalWeeks": 0,
+            "Specification": "VITARA 1.6 GLX ALLGRIP",
+            "Specification_UID": "77028df8-c127-ef11-a7e3-0022481354d9"
+        },
+        "Status": 0,
+        "StockNumber": "UNB55",
+        "SupplierOrderNumber": "51513",
+        "Transmission": {
+            "Transmission": "Manual",
+            "Transmission_UID": "676b0760-acd2-4612-be76-c64c4db25047"
+        },
+        "UnitOfDistance": 1,
+        "Vehicle_UID": "7d028df8-c127-ef11-a7e3-0022481354d9",
+        "VehicleCode": "59051200",
+        "VehicleType": 1,
+        "VideoCount": 0,
+        "Videos": [],
+        "VIN": "TSMLYE21S00B51513"
+    },
+    {
+        "BasicPrice": 365130.43,
+        "BatteryCapacity": 0.00,
+        "BodyStyle": {
+            "BodyStyle": "Bakkie/Pickup",
+            "BodyStyle_UID": "b6b6f93f-81ee-ea11-a965-00155d0aea69"
+        },
+        "CO2Emission": 0,
+        "Colour": "WHITE",
+        "ColourGroup": " WHITE",
+        "ColourGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "DaysInStock": 19,
+        "DaysInStockGroup": 19,
+        "Discount": 0.00,
+        "DriveType": 1,
+        "ElectricRange": 0.0,
+        "EnergyConsumption": 0.00,
+        "EngineNumber": "2GDC857684",
+        "EngineSize": 2400,
+        "EstimatedDeliveryDate": "2024-06-12T00:00:00",
+        "FleetOrderNumber": "",
+        "FuelType": {
+            "FuelType": "Petrol",
+            "FuelType_UID": "30757bab-4e10-4660-a078-efc3844f5854"
+        },
+        "HasServiceHistory": true,
+        "Images": [
+            {
+                "Entity_UID": "faa5a1d4-b228-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 1,
+                "Image_UID": "c1f8ac72-d265-46c9-85f9-577e470d032e",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/c1f8ac72-d265-46c9-85f9-577e470d032e.jpg?",
+                "ImageWidth": 1020
+            },
+            {
+                "Entity_UID": "faa5a1d4-b228-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 2,
+                "Image_UID": "a0914f2d-71fa-41cc-8af2-59ba031e7b60",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/a0914f2d-71fa-41cc-8af2-59ba031e7b60.jpg?",
+                "ImageWidth": 1020
+            },
+            {
+                "Entity_UID": "faa5a1d4-b228-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 3,
+                "Image_UID": "ed812a27-5260-45b1-b30c-5b416002d933",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/ed812a27-5260-45b1-b30c-5b416002d933.jpg?",
+                "ImageWidth": 1020
+            },
+            {
+                "Entity_UID": "faa5a1d4-b228-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 4,
+                "Image_UID": "8c003f6f-99ab-4ea5-a113-d4e314706bd7",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/8c003f6f-99ab-4ea5-a113-d4e314706bd7.jpg?",
+                "ImageWidth": 1020
+            },
+            {
+                "Entity_UID": "faa5a1d4-b228-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 5,
+                "Image_UID": "b731d879-dee1-4266-a5b4-83605279f95b",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/b731d879-dee1-4266-a5b4-83605279f95b.jpg?",
+                "ImageWidth": 1020
+            },
+            {
+                "Entity_UID": "faa5a1d4-b228-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 6,
+                "Image_UID": "9405a698-9fac-4363-8033-f1e9eb56c4b3",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/9405a698-9fac-4363-8033-f1e9eb56c4b3.jpg?",
+                "ImageWidth": 1020
+            },
+            {
+                "Entity_UID": "faa5a1d4-b228-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 7,
+                "Image_UID": "6bc4d379-863a-474a-83b0-8b2f5c3f216c",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/6bc4d379-863a-474a-83b0-8b2f5c3f216c.jpg?",
+                "ImageWidth": 1020
+            },
+            {
+                "Entity_UID": "faa5a1d4-b228-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 8,
+                "Image_UID": "aabcdb0e-6291-40b8-95de-c66fb843fb73",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/aabcdb0e-6291-40b8-95de-c66fb843fb73.jpg?",
+                "ImageWidth": 1020
+            },
+            {
+                "Entity_UID": "faa5a1d4-b228-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 9,
+                "Image_UID": "35e235ad-da6d-472e-bdd7-edd5e38edbd3",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/35e235ad-da6d-472e-bdd7-edd5e38edbd3.jpg?",
+                "ImageWidth": 1020
+            },
+            {
+                "Entity_UID": "faa5a1d4-b228-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 10,
+                "Image_UID": "e7f152f4-7d0b-4c4e-92b0-06d3c595d9bb",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/e7f152f4-7d0b-4c4e-92b0-06d3c595d9bb.jpg?",
+                "ImageWidth": 1020
+            }
+        ],
+        "Interior": {
+            "Interior": "Cloth",
+            "Interior_UID": "79ebbc56-fce4-422d-afc6-2d7cf0e44327"
+        },
+        "InternalNotes": null,
+        "InternetNotes": "",
+        "InternetPrice": 419900.00,
+        "InvoiceGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "IsNew": false,
+        "IsQualifying": true,
+        "IsReserved": false,
+        "Location": "Used Showroom",
+        "Make": {
+            "FranchiseModel": null,
+            "FriendlyDescription": null,
+            "Make": "Toyota",
+            "Make_UID": "371353a2-a508-e211-8af1-00155d0a2c00"
+        },
+        "ManufacturerCode": null,
+        "ManufacturerRecommendedRetailPrice": 0.00,
+        "Model": {
+            "FriendlyDescription": null,
+            "Make_UID": "371353a2-a508-e211-8af1-00155d0a2c00",
+            "Model": "HILUX 2016 ON",
+            "Model_UID": "09ff4927-88a3-e711-80d2-00155d0a5f04"
+        },
+        "ModelYear": 2021,
+        "Odometer": 102000,
+        "OdometerFull": 0,
+        "Options": [],
+        "OrganisationalUnit": {
+            "Address": {
+                "Address1": "73 Spoorweg Street",
+                "Address2": "",
+                "Address3": "",
+                "CompanyName": null,
+                "Country": null,
+                "County": "North West",
+                "PostCode": "0250",
+                "PostTown": "Brits",
+                "IsPostOfficeBox": null
+            },
+            "Description": "Penta Now Brits",
+            "EmailAddress": "brits@now.co.za",
+            "OrganisationalUnitLevel": 4,
+            "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+            "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+            "Telephone": ""
+        },
+        "PhotoCount": 10,
+        "PhysicalLocation": {
+            "DealerCode": "",
+            "Description": "Penta Now Brits",
+            "Location_UID": "00000000-0000-0000-0000-000000000000",
+            "LocationDescription": "Used Showroom",
+            "OrganisationalUnit": {
+                "Address": {
+                    "Address1": "73 Spoorweg Street",
+                    "Address2": "",
+                    "Address3": "",
+                    "CompanyName": null,
+                    "Country": null,
+                    "County": "North West",
+                    "PostCode": "0250",
+                    "PostTown": "Brits",
+                    "IsPostOfficeBox": null
+                },
+                "Description": "Penta Now Brits",
+                "EmailAddress": "brits@now.co.za",
+                "OrganisationalUnitLevel": 4,
+                "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+                "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+                "Telephone": ""
+            },
+            "UID": "e40d13a9-7444-442e-9aea-8568022b3bc0"
+        },
+        "PreviousOwners": 0,
+        "Profiles": [
+            {
+                "AllowVehicleProfileChanges": false,
+                "Description": "Retail",
+                "ProfileType": 0,
+                "UID": "82747147-0ba4-4f34-9139-5f02105cb4b1"
+            }
+        ],
+        "RegistrationDate": "2021-09-16T00:00:00",
+        "RegistrationNumber": "KF15HBGP",
+        "RetailPrice": 419899.99,
+        "Specification": {
+            "Doors": 0,
+            "FriendlyDescription": null,
+            "ModelYear": 0,
+            "ModelYearSeries": "",
+            "ServiceIntervalDistance": 0,
+            "ServiceIntervalWeeks": 0,
+            "Specification": "HILUX 2.4 GD-6 SR 4X4 P/U S/C",
+            "Specification_UID": "9f813774-9edf-ee11-a7df-0022481354d9"
+        },
+        "Status": 0,
+        "StockNumber": "UNB59",
+        "SupplierOrderNumber": "70456",
+        "Transmission": {
+            "Transmission": "Manual",
+            "Transmission_UID": "676b0760-acd2-4612-be76-c64c4db25047"
+        },
+        "UnitOfDistance": 1,
+        "Vehicle_UID": "faa5a1d4-b228-ef11-a7e3-0022481354d9",
+        "VehicleCode": "60039201",
+        "VehicleType": 1,
+        "VideoCount": 0,
+        "Videos": [],
+        "VIN": "AHTKB3CB402370456"
+    },
+    {
+        "BasicPrice": 173826.09,
+        "BatteryCapacity": 0.00,
+        "BodyStyle": {
+            "BodyStyle": "Bakkie/Pickup",
+            "BodyStyle_UID": "b6b6f93f-81ee-ea11-a965-00155d0aea69"
+        },
+        "CO2Emission": 0,
+        "Colour": "WHITE",
+        "ColourGroup": " WHITE",
+        "ColourGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "DaysInStock": 19,
+        "DaysInStockGroup": 19,
+        "Discount": 0.00,
+        "DriveType": 1,
+        "ElectricRange": 0.0,
+        "EnergyConsumption": 0.00,
+        "EngineNumber": "K7MF710UK37473",
+        "EngineSize": 1600,
+        "EstimatedDeliveryDate": "2024-06-12T00:00:00",
+        "FleetOrderNumber": "",
+        "FuelType": {
+            "FuelType": "Petrol",
+            "FuelType_UID": "30757bab-4e10-4660-a078-efc3844f5854"
+        },
+        "HasServiceHistory": true,
+        "Images": [
+            {
+                "Entity_UID": "cfed422d-b628-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 1,
+                "Image_UID": "88bb4bf2-1ab0-455c-b1bb-c850ad0e884c",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/88bb4bf2-1ab0-455c-b1bb-c850ad0e884c.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "cfed422d-b628-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 2,
+                "Image_UID": "3552b38a-e70a-4f01-8dda-30a6635542ff",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/3552b38a-e70a-4f01-8dda-30a6635542ff.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "cfed422d-b628-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 3,
+                "Image_UID": "b4108c0c-3a89-48d3-a63c-ffcaa2427a10",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/b4108c0c-3a89-48d3-a63c-ffcaa2427a10.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "cfed422d-b628-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 4,
+                "Image_UID": "de13cd84-6296-4fcb-b4e8-fe26c0a59398",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/de13cd84-6296-4fcb-b4e8-fe26c0a59398.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "cfed422d-b628-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 5,
+                "Image_UID": "f305482c-7635-4d33-80b4-787184fa5bb8",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/f305482c-7635-4d33-80b4-787184fa5bb8.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "cfed422d-b628-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 6,
+                "Image_UID": "8505d511-2f58-4032-b93e-85c4d272d516",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/8505d511-2f58-4032-b93e-85c4d272d516.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "cfed422d-b628-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 7,
+                "Image_UID": "1f03a616-76e8-47bc-b0bd-2132060fb5ae",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/1f03a616-76e8-47bc-b0bd-2132060fb5ae.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "cfed422d-b628-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 8,
+                "Image_UID": "1494c084-5e51-4bd8-9535-34478952c864",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/1494c084-5e51-4bd8-9535-34478952c864.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "cfed422d-b628-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 9,
+                "Image_UID": "604a209e-d1f6-4580-8bf5-22952782bde2",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/604a209e-d1f6-4580-8bf5-22952782bde2.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "cfed422d-b628-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 10,
+                "Image_UID": "73fd00b0-cdd8-463e-ac5e-f291dd81fe37",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/73fd00b0-cdd8-463e-ac5e-f291dd81fe37.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "cfed422d-b628-ef11-a7e3-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 11,
+                "Image_UID": "4372ad5f-20a6-44f7-90af-05922f06cc34",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/4372ad5f-20a6-44f7-90af-05922f06cc34.jpg?",
+                "ImageWidth": 1440
+            }
+        ],
+        "Interior": {
+            "Interior": "Cloth",
+            "Interior_UID": "79ebbc56-fce4-422d-afc6-2d7cf0e44327"
+        },
+        "InternalNotes": null,
+        "InternetNotes": "",
+        "InternetPrice": 199900.00,
+        "InvoiceGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "IsNew": false,
+        "IsQualifying": true,
+        "IsReserved": false,
+        "Location": "Used Showroom",
+        "Make": {
+            "FranchiseModel": null,
+            "FriendlyDescription": null,
+            "Make": "NISSAN",
+            "Make_UID": "cfb4546e-8d08-e211-8af1-00155d0a2c00"
+        },
+        "ManufacturerCode": null,
+        "ManufacturerRecommendedRetailPrice": 0.00,
+        "Model": {
+            "FriendlyDescription": null,
+            "Make_UID": "cfb4546e-8d08-e211-8af1-00155d0a2c00",
+            "Model": "1400/NP200",
+            "Model_UID": "e01f6e7b-dcc5-e611-80f2-00155d655732"
+        },
+        "ModelYear": 2022,
+        "Odometer": 86000,
+        "OdometerFull": 0,
+        "Options": [],
+        "OrganisationalUnit": {
+            "Address": {
+                "Address1": "73 Spoorweg Street",
+                "Address2": "",
+                "Address3": "",
+                "CompanyName": null,
+                "Country": null,
+                "County": "North West",
+                "PostCode": "0250",
+                "PostTown": "Brits",
+                "IsPostOfficeBox": null
+            },
+            "Description": "Penta Now Brits",
+            "EmailAddress": "brits@now.co.za",
+            "OrganisationalUnitLevel": 4,
+            "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+            "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+            "Telephone": ""
+        },
+        "PhotoCount": 11,
+        "PhysicalLocation": {
+            "DealerCode": "",
+            "Description": "Penta Now Brits",
+            "Location_UID": "00000000-0000-0000-0000-000000000000",
+            "LocationDescription": "Used Showroom",
+            "OrganisationalUnit": {
+                "Address": {
+                    "Address1": "73 Spoorweg Street",
+                    "Address2": "",
+                    "Address3": "",
+                    "CompanyName": null,
+                    "Country": null,
+                    "County": "North West",
+                    "PostCode": "0250",
+                    "PostTown": "Brits",
+                    "IsPostOfficeBox": null
+                },
+                "Description": "Penta Now Brits",
+                "EmailAddress": "brits@now.co.za",
+                "OrganisationalUnitLevel": 4,
+                "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+                "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+                "Telephone": ""
+            },
+            "UID": "e40d13a9-7444-442e-9aea-8568022b3bc0"
+        },
+        "PreviousOwners": 0,
+        "Profiles": [
+            {
+                "AllowVehicleProfileChanges": false,
+                "Description": "Retail",
+                "ProfileType": 0,
+                "UID": "82747147-0ba4-4f34-9139-5f02105cb4b1"
+            }
+        ],
+        "RegistrationDate": "2022-09-21T00:00:00",
+        "RegistrationNumber": "10760",
+        "RetailPrice": 199900.00,
+        "Specification": {
+            "Doors": 0,
+            "FriendlyDescription": null,
+            "ModelYear": 0,
+            "ModelYearSeries": "",
+            "ServiceIntervalDistance": 0,
+            "ServiceIntervalWeeks": 0,
+            "Specification": "NP200 1.6 A/C SAFETY PACK P/U S/C",
+            "Specification_UID": "a157e66d-42f7-e611-80f8-00155d65573b"
+        },
+        "Status": 0,
+        "StockNumber": "UNB60",
+        "SupplierOrderNumber": "10760",
+        "Transmission": {
+            "Transmission": "Manual",
+            "Transmission_UID": "676b0760-acd2-4612-be76-c64c4db25047"
+        },
+        "UnitOfDistance": 1,
+        "Vehicle_UID": "cfed422d-b628-ef11-a7e3-0022481354d9",
+        "VehicleCode": "47017665",
+        "VehicleType": 1,
+        "VideoCount": 0,
+        "Videos": [],
+        "VIN": "ADNUSN1D5U0210760"
+    },
+    {
+        "BasicPrice": 260782.61,
+        "BatteryCapacity": 0.00,
+        "BodyStyle": {
+            "BodyStyle": "Hatch",
+            "BodyStyle_UID": "9bbc91b2-f0b9-4b52-bc2d-712382db2c15"
+        },
+        "CO2Emission": 0,
+        "Colour": "SILVER",
+        "ColourGroup": "Silver",
+        "ColourGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "DaysInStock": 19,
+        "DaysInStockGroup": 19,
+        "Discount": 0.00,
+        "DriveType": 1,
+        "ElectricRange": 0.0,
+        "EnergyConsumption": 0.00,
+        "EngineNumber": "HRA0051691C",
+        "EngineSize": 1000,
+        "EstimatedDeliveryDate": "2024-06-12T00:00:00",
+        "FleetOrderNumber": "",
+        "FuelType": {
+            "FuelType": "Petrol",
+            "FuelType_UID": "30757bab-4e10-4660-a078-efc3844f5854"
+        },
+        "HasServiceHistory": true,
+        "Images": [],
+        "Interior": {
+            "Interior": "Cloth",
+            "Interior_UID": "79ebbc56-fce4-422d-afc6-2d7cf0e44327"
+        },
+        "InternalNotes": null,
+        "InternetNotes": "",
+        "InternetPrice": 299900.00,
+        "InvoiceGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "IsNew": false,
+        "IsQualifying": true,
+        "IsReserved": false,
+        "Location": "Used Showroom",
+        "Make": {
+            "FranchiseModel": null,
+            "FriendlyDescription": null,
+            "Make": "NISSAN",
+            "Make_UID": "cfb4546e-8d08-e211-8af1-00155d0a2c00"
+        },
+        "ManufacturerCode": null,
+        "ManufacturerRecommendedRetailPrice": 0.00,
+        "Model": {
+            "FriendlyDescription": null,
+            "Make_UID": "cfb4546e-8d08-e211-8af1-00155d0a2c00",
+            "Model": "Magnite",
+            "Model_UID": "520bdb6b-c5f9-eb11-a970-00155d0ae606"
+        },
+        "ModelYear": 2023,
+        "Odometer": 28771,
+        "OdometerFull": 0,
+        "Options": [],
+        "OrganisationalUnit": {
+            "Address": {
+                "Address1": "73 Spoorweg Street",
+                "Address2": "",
+                "Address3": "",
+                "CompanyName": null,
+                "Country": null,
+                "County": "North West",
+                "PostCode": "0250",
+                "PostTown": "Brits",
+                "IsPostOfficeBox": null
+            },
+            "Description": "Penta Now Brits",
+            "EmailAddress": "brits@now.co.za",
+            "OrganisationalUnitLevel": 4,
+            "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+            "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+            "Telephone": ""
+        },
+        "PhotoCount": 0,
+        "PhysicalLocation": {
+            "DealerCode": "",
+            "Description": "Penta Now Brits",
+            "Location_UID": "00000000-0000-0000-0000-000000000000",
+            "LocationDescription": "Used Showroom",
+            "OrganisationalUnit": {
+                "Address": {
+                    "Address1": "73 Spoorweg Street",
+                    "Address2": "",
+                    "Address3": "",
+                    "CompanyName": null,
+                    "Country": null,
+                    "County": "North West",
+                    "PostCode": "0250",
+                    "PostTown": "Brits",
+                    "IsPostOfficeBox": null
+                },
+                "Description": "Penta Now Brits",
+                "EmailAddress": "brits@now.co.za",
+                "OrganisationalUnitLevel": 4,
+                "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+                "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+                "Telephone": ""
+            },
+            "UID": "e40d13a9-7444-442e-9aea-8568022b3bc0"
+        },
+        "PreviousOwners": 0,
+        "Profiles": [
+            {
+                "AllowVehicleProfileChanges": false,
+                "Description": "Retail",
+                "ProfileType": 0,
+                "UID": "82747147-0ba4-4f34-9139-5f02105cb4b1"
+            }
+        ],
+        "RegistrationDate": "2023-04-26T00:00:00",
+        "RegistrationNumber": "012394",
+        "RetailPrice": 299900.00,
+        "Specification": {
+            "Doors": 0,
+            "FriendlyDescription": null,
+            "ModelYear": 0,
+            "ModelYearSeries": "",
+            "ServiceIntervalDistance": 0,
+            "ServiceIntervalWeeks": 0,
+            "Specification": "MAGNITE 1.0T ACENTA PLUS CVT",
+            "Specification_UID": "94b00ce3-145d-ee11-a7da-0022481354d9"
+        },
+        "Status": 0,
+        "StockNumber": "UNB61",
+        "SupplierOrderNumber": "12394",
+        "Transmission": {
+            "Transmission": "Manual",
+            "Transmission_UID": "676b0760-acd2-4612-be76-c64c4db25047"
+        },
+        "UnitOfDistance": 1,
+        "Vehicle_UID": "4e3632e8-b628-ef11-a7e3-0022481354d9",
+        "VehicleCode": "47012230",
+        "VehicleType": 1,
+        "VideoCount": 0,
+        "Videos": [],
+        "VIN": "MDHFBADD0Z0012394"
+    },
+    {
+        "BasicPrice": 173826.09,
+        "BatteryCapacity": 0.00,
+        "BodyStyle": {
+            "BodyStyle": "Stationwagon",
+            "BodyStyle_UID": "bab6f93f-81ee-ea11-a965-00155d0aea69"
+        },
+        "CO2Emission": 0,
+        "Colour": "GREY",
+        "ColourGroup": "Grey",
+        "ColourGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "DaysInStock": 13,
+        "DaysInStockGroup": 13,
+        "Discount": 0.00,
+        "DriveType": 1,
+        "ElectricRange": 0.0,
+        "EnergyConsumption": 0.00,
+        "EngineNumber": "L15Z1400723",
+        "EngineSize": 1500,
+        "EstimatedDeliveryDate": "2024-06-15T00:00:00",
+        "FleetOrderNumber": "",
+        "FuelType": {
+            "FuelType": "Petrol",
+            "FuelType_UID": "30757bab-4e10-4660-a078-efc3844f5854"
+        },
+        "HasServiceHistory": true,
+        "Images": [
+            {
+                "Entity_UID": "99614027-442a-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 1,
+                "Image_UID": "f3e463f4-6398-469f-bc41-dd251aee196f",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/f3e463f4-6398-469f-bc41-dd251aee196f.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "99614027-442a-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 2,
+                "Image_UID": "7d051d19-9dbf-41cb-a2c8-749db0f3579e",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/7d051d19-9dbf-41cb-a2c8-749db0f3579e.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "99614027-442a-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 3,
+                "Image_UID": "30fe9c0e-f97b-4d82-b60e-075dd0f219ed",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/30fe9c0e-f97b-4d82-b60e-075dd0f219ed.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "99614027-442a-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 4,
+                "Image_UID": "bfe9877f-c184-40d6-bae4-95ad1461e027",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/bfe9877f-c184-40d6-bae4-95ad1461e027.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "99614027-442a-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 5,
+                "Image_UID": "d03e075c-f7cd-4891-bcdb-92a760572ad2",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/d03e075c-f7cd-4891-bcdb-92a760572ad2.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "99614027-442a-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 6,
+                "Image_UID": "ca606be3-99b0-459f-ace1-204d55d5587e",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/ca606be3-99b0-459f-ace1-204d55d5587e.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "99614027-442a-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 7,
+                "Image_UID": "8a2565d9-4bb4-459d-b4c3-a171ea320bfe",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/8a2565d9-4bb4-459d-b4c3-a171ea320bfe.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "99614027-442a-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 8,
+                "Image_UID": "6045ddd0-6f8d-47fa-929a-e6794346d2e2",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/6045ddd0-6f8d-47fa-929a-e6794346d2e2.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "99614027-442a-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 9,
+                "Image_UID": "9398e18f-fc30-4867-935a-e963ad1d964b",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/9398e18f-fc30-4867-935a-e963ad1d964b.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "99614027-442a-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 10,
+                "Image_UID": "b16310d1-4cb4-4200-a833-b5400fc5fb74",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/b16310d1-4cb4-4200-a833-b5400fc5fb74.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "99614027-442a-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 11,
+                "Image_UID": "74d60a07-92db-463e-bfe3-54c8b771ab47",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/74d60a07-92db-463e-bfe3-54c8b771ab47.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "99614027-442a-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 12,
+                "Image_UID": "624cd6e5-f0fb-48b9-956d-6493e312e7de",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/624cd6e5-f0fb-48b9-956d-6493e312e7de.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "99614027-442a-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 13,
+                "Image_UID": "20e8fa64-10dc-4afe-a124-dc7ce6989cf4",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/20e8fa64-10dc-4afe-a124-dc7ce6989cf4.jpg?",
+                "ImageWidth": 1280
+            }
+        ],
+        "Interior": {
+            "Interior": "Cloth",
+            "Interior_UID": "79ebbc56-fce4-422d-afc6-2d7cf0e44327"
+        },
+        "InternalNotes": null,
+        "InternetNotes": "",
+        "InternetPrice": 199900.00,
+        "InvoiceGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "IsNew": false,
+        "IsQualifying": true,
+        "IsReserved": false,
+        "Location": "Used Showroom",
+        "Make": {
+            "FranchiseModel": null,
+            "FriendlyDescription": null,
+            "Make": "Honda",
+            "Make_UID": "5b354df4-9e08-e211-8af1-00155d0a2c00"
+        },
+        "ManufacturerCode": null,
+        "ManufacturerRecommendedRetailPrice": 0.00,
+        "Model": {
+            "FriendlyDescription": null,
+            "Make_UID": "5b354df4-9e08-e211-8af1-00155d0a2c00",
+            "Model": "BALLADE 2011 - ON",
+            "Model_UID": "30ade5c6-2ca9-e911-a94c-00155d0af038"
+        },
+        "ModelYear": 2019,
+        "Odometer": 96900,
+        "OdometerFull": 0,
+        "Options": [],
+        "OrganisationalUnit": {
+            "Address": {
+                "Address1": "73 Spoorweg Street",
+                "Address2": "",
+                "Address3": "",
+                "CompanyName": null,
+                "Country": null,
+                "County": "North West",
+                "PostCode": "0250",
+                "PostTown": "Brits",
+                "IsPostOfficeBox": null
+            },
+            "Description": "Penta Now Brits",
+            "EmailAddress": "brits@now.co.za",
+            "OrganisationalUnitLevel": 4,
+            "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+            "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+            "Telephone": ""
+        },
+        "PhotoCount": 13,
+        "PhysicalLocation": {
+            "DealerCode": "",
+            "Description": "Penta Now Brits",
+            "Location_UID": "00000000-0000-0000-0000-000000000000",
+            "LocationDescription": "Used Showroom",
+            "OrganisationalUnit": {
+                "Address": {
+                    "Address1": "73 Spoorweg Street",
+                    "Address2": "",
+                    "Address3": "",
+                    "CompanyName": null,
+                    "Country": null,
+                    "County": "North West",
+                    "PostCode": "0250",
+                    "PostTown": "Brits",
+                    "IsPostOfficeBox": null
+                },
+                "Description": "Penta Now Brits",
+                "EmailAddress": "brits@now.co.za",
+                "OrganisationalUnitLevel": 4,
+                "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+                "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+                "Telephone": ""
+            },
+            "UID": "e40d13a9-7444-442e-9aea-8568022b3bc0"
+        },
+        "PreviousOwners": 0,
+        "Profiles": [
+            {
+                "AllowVehicleProfileChanges": false,
+                "Description": "Retail",
+                "ProfileType": 0,
+                "UID": "82747147-0ba4-4f34-9139-5f02105cb4b1"
+            }
+        ],
+        "RegistrationDate": "2019-01-18T00:00:00",
+        "RegistrationNumber": "KGH736NW",
+        "RetailPrice": 199900.00,
+        "Specification": {
+            "Doors": 3,
+            "FriendlyDescription": null,
+            "ModelYear": 0,
+            "ModelYearSeries": "",
+            "ServiceIntervalDistance": 0,
+            "ServiceIntervalWeeks": 0,
+            "Specification": "BALLADE 1.5 ELEGANCE CVT",
+            "Specification_UID": "72ffda06-489b-ea11-a95b-00155d0aea37"
+        },
+        "Status": 0,
+        "StockNumber": "UNB64",
+        "SupplierOrderNumber": "",
+        "Transmission": {
+            "Transmission": "CVT",
+            "Transmission_UID": "7235ff48-0652-4d58-8bea-e0e842ccafb2"
+        },
+        "UnitOfDistance": 1,
+        "Vehicle_UID": "99614027-442a-ef11-a7e4-0022481354d9",
+        "VehicleCode": "25053131",
+        "VehicleType": 1,
+        "VideoCount": 0,
+        "Videos": [],
+        "VIN": "MAKGM66V0HN000243"
+    },
+    {
+        "BasicPrice": 234695.65,
+        "BatteryCapacity": 0.00,
+        "BodyStyle": {
+            "BodyStyle": "Bakkie/Pickup",
+            "BodyStyle_UID": "b6b6f93f-81ee-ea11-a965-00155d0aea69"
+        },
+        "CO2Emission": 0,
+        "Colour": "SILVER",
+        "ColourGroup": "Silver",
+        "ColourGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "DaysInStock": 9,
+        "DaysInStockGroup": 9,
+        "Discount": 0.00,
+        "DriveType": 1,
+        "ElectricRange": 0.0,
+        "EnergyConsumption": 0.00,
+        "EngineNumber": "QJ2LPHP59338",
+        "EngineSize": 2200,
+        "EstimatedDeliveryDate": "2024-06-21T00:00:00",
+        "FleetOrderNumber": "",
+        "FuelType": {
+            "FuelType": "Diesel",
+            "FuelType_UID": "b64e2732-9af8-410a-8027-1222e99c1b6f"
+        },
+        "HasServiceHistory": true,
+        "Images": [
+            {
+                "Entity_UID": "8f24554a-d92f-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 1,
+                "Image_UID": "4ed2e3ee-8905-45e8-b12f-c5d770053ef1",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/4ed2e3ee-8905-45e8-b12f-c5d770053ef1.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "8f24554a-d92f-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 2,
+                "Image_UID": "6c928b43-966d-4a5f-aeac-d83f26b239c7",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/6c928b43-966d-4a5f-aeac-d83f26b239c7.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "8f24554a-d92f-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 3,
+                "Image_UID": "40fc6751-1a87-4263-9422-3ff54b71a077",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/40fc6751-1a87-4263-9422-3ff54b71a077.jpg?",
+                "ImageWidth": 1440
+            },
+            {
+                "Entity_UID": "8f24554a-d92f-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 4,
+                "Image_UID": "e378c31e-d52d-4a82-820d-d60389969b7b",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/e378c31e-d52d-4a82-820d-d60389969b7b.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "8f24554a-d92f-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 5,
+                "Image_UID": "fe07e810-335b-4899-bf5f-0c031ae57521",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/fe07e810-335b-4899-bf5f-0c031ae57521.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "8f24554a-d92f-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 6,
+                "Image_UID": "092e4d22-d65c-478e-9794-c68c9ca3438d",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/092e4d22-d65c-478e-9794-c68c9ca3438d.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "8f24554a-d92f-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 7,
+                "Image_UID": "f1a5fd5e-fa62-4534-a241-98024249c623",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/f1a5fd5e-fa62-4534-a241-98024249c623.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "8f24554a-d92f-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 8,
+                "Image_UID": "d0043d69-ea56-4c26-abb4-6785bdab8a6b",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/d0043d69-ea56-4c26-abb4-6785bdab8a6b.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "8f24554a-d92f-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 9,
+                "Image_UID": "14e76612-1f8a-4eb2-9177-ab3db8dd6a88",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/14e76612-1f8a-4eb2-9177-ab3db8dd6a88.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "8f24554a-d92f-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 10,
+                "Image_UID": "beae1383-7c69-4afc-a1f1-a1cf16fcc123",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/beae1383-7c69-4afc-a1f1-a1cf16fcc123.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "8f24554a-d92f-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 11,
+                "Image_UID": "bd72cd54-903b-4d9f-934b-3516765832bc",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/bd72cd54-903b-4d9f-934b-3516765832bc.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "8f24554a-d92f-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 12,
+                "Image_UID": "af6cc599-ce52-47de-a636-a369f8bfc984",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/af6cc599-ce52-47de-a636-a369f8bfc984.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "8f24554a-d92f-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 13,
+                "Image_UID": "ab3f7938-b1b0-4323-976a-512afd024956",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/ab3f7938-b1b0-4323-976a-512afd024956.jpg?",
+                "ImageWidth": 1280
+            },
+            {
+                "Entity_UID": "8f24554a-d92f-ef11-a7e4-0022481354d9",
+                "ImageHeight": 0,
+                "ImageNumber": 14,
+                "Image_UID": "b6174d7b-8735-49a1-aa0b-716def29ed3a",
+                "ImageURI": "https://san-cdn.pinewooddms.com/99f5b996-9f70-47fb-84b2-f682d61be218/vehicles/b6174d7b-8735-49a1-aa0b-716def29ed3a.jpg?",
+                "ImageWidth": 1280
+            }
+        ],
+        "Interior": {
+            "Interior": "Cloth",
+            "Interior_UID": "79ebbc56-fce4-422d-afc6-2d7cf0e44327"
+        },
+        "InternalNotes": null,
+        "InternetNotes": "",
+        "InternetPrice": 269900.00,
+        "InvoiceGroup_UID": "00000000-0000-0000-0000-000000000000",
+        "IsNew": false,
+        "IsQualifying": true,
+        "IsReserved": false,
+        "Location": "Used Showroom",
+        "Make": {
+            "FranchiseModel": null,
+            "FriendlyDescription": null,
+            "Make": "Ford",
+            "Make_UID": "6b7d48e8-a808-e211-8af1-00155d0a2c00"
+        },
+        "ManufacturerCode": null,
+        "ManufacturerRecommendedRetailPrice": 0.00,
+        "Model": {
+            "FriendlyDescription": null,
+            "Make_UID": "6b7d48e8-a808-e211-8af1-00155d0a2c00",
+            "Model": "RANGER 2007 - 2022",
+            "Model_UID": "5f8ea3f9-4571-4442-b80e-43a699d0d89d"
+        },
+        "ModelYear": 2017,
+        "Odometer": 230000,
+        "OdometerFull": 230000,
+        "Options": [],
+        "OrganisationalUnit": {
+            "Address": {
+                "Address1": "73 Spoorweg Street",
+                "Address2": "",
+                "Address3": "",
+                "CompanyName": null,
+                "Country": null,
+                "County": "North West",
+                "PostCode": "0250",
+                "PostTown": "Brits",
+                "IsPostOfficeBox": null
+            },
+            "Description": "Penta Now Brits",
+            "EmailAddress": "brits@now.co.za",
+            "OrganisationalUnitLevel": 4,
+            "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+            "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+            "Telephone": ""
+        },
+        "PhotoCount": 14,
+        "PhysicalLocation": {
+            "DealerCode": "",
+            "Description": "Penta Now Brits",
+            "Location_UID": "00000000-0000-0000-0000-000000000000",
+            "LocationDescription": "Used Showroom",
+            "OrganisationalUnit": {
+                "Address": {
+                    "Address1": "73 Spoorweg Street",
+                    "Address2": "",
+                    "Address3": "",
+                    "CompanyName": null,
+                    "Country": null,
+                    "County": "North West",
+                    "PostCode": "0250",
+                    "PostTown": "Brits",
+                    "IsPostOfficeBox": null
+                },
+                "Description": "Penta Now Brits",
+                "EmailAddress": "brits@now.co.za",
+                "OrganisationalUnitLevel": 4,
+                "OrganisationalUnit_UID": "e40d13a9-7444-442e-9aea-8568022b3bc0",
+                "ParentOrganisationalUnit_UID": "7055d1cc-fee3-437d-99c8-80598be84ef6",
+                "Telephone": ""
+            },
+            "UID": "e40d13a9-7444-442e-9aea-8568022b3bc0"
+        },
+        "PreviousOwners": 0,
+        "Profiles": [
+            {
+                "AllowVehicleProfileChanges": false,
+                "Description": "Retail",
+                "ProfileType": 0,
+                "UID": "82747147-0ba4-4f34-9139-5f02105cb4b1"
+            }
+        ],
+        "RegistrationDate": "2017-07-21T00:00:00",
+        "RegistrationNumber": "FX31RNGP",
+        "RetailPrice": 269900.00,
+        "Specification": {
+            "Doors": 3,
+            "FriendlyDescription": null,
+            "ModelYear": 0,
+            "ModelYearSeries": "",
+            "ServiceIntervalDistance": 0,
+            "ServiceIntervalWeeks": 0,
+            "Specification": "RANGER 2.2TDCi XL A/T P/U D/C",
+            "Specification_UID": "5496cb3c-4801-ee11-a7d6-0022481354d9"
+        },
+        "Status": 0,
+        "StockNumber": "UNB67",
+        "SupplierOrderNumber": "59338",
+        "Transmission": {
+            "Transmission": "Automatic",
+            "Transmission_UID": "ae61bfc6-e802-42c7-bb60-cef6e837395b"
+        },
+        "UnitOfDistance": 1,
+        "Vehicle_UID": "8f24554a-d92f-ef11-a7e4-0022481354d9",
+        "VehicleCode": "22032690",
+        "VehicleType": 2,
+        "VideoCount": 0,
+        "Videos": [],
+        "VIN": "AFAPXXMJ2PHP59338"
+    }
+]

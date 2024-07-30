@@ -1,0 +1,645 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="theme-color" content="#000000">
+    <title>Penta Now</title>
+    <meta name="description" content="Finapp HTML Mobile Template">
+    <meta name="keywords"
+        content="bootstrap, wallet, banking, fintech mobile template, cordova, phonegap, mobile, html, responsive" />
+    <link rel="icon" type="image/png" href="assets/img/favicon.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/icon/192x192.png">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="manifest" href="__manifest.json">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+
+
+
+<body>
+
+    <!-- loader -->
+    <div id="loader">
+        <img src="assets/img/loading-icon.png" alt="icon" class="loading-icon">
+    </div>
+    <!-- * loader -->
+
+
+
+    <!----------------------------------------- Lesego Header START---------------------------------------------------------------------------------->
+    <!-- App Header -->
+    <div class="appHeader  text-light">
+        <div class="left">
+            <a href="#" class="headerButton goBack">
+                <ion-icon name="chevron-back-outline"></ion-icon>
+            </a>
+        </div>
+        <div class="pageTitle">
+            <a href="#" class="headerButton" data-bs-toggle="modal" data-bs-target="#sidebarPanel">
+                <img src="assets/img/logo-svg.png" alt="image" style="width:160px;">
+               
+            </a>
+        </div>
+        <div class="right">
+            <a href="app-notifications.html" class="headerButton">
+                <ion-icon class="icon" name="notifications-outline"></ion-icon>
+                <span class="badge badge-danger">4</span>
+            </a>
+        </div>
+    </div>
+
+
+
+
+
+        <!-----------------------------------------LESEGO HEADER SEND---------------------------------------------------------------------------------->
+
+
+
+    <!-- Share Action Sheet -->
+    <div class="modal fade action-sheet inset" id="actionSheetShare" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Share with</h5>
+                </div>
+                <div class="modal-body">
+                    <ul class="action-button-list">
+                        <li>
+                            <a href="#" class="btn btn-list" data-bs-dismiss="modal">
+                                <span>
+                                    <ion-icon name="logo-facebook"></ion-icon>
+                                    Facebook
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="btn btn-list" data-bs-dismiss="modal">
+                                <span>
+                                    <ion-icon name="logo-twitter"></ion-icon>
+                                    Twitter
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="btn btn-list" data-bs-dismiss="modal">
+                                <span>
+                                    <ion-icon name="logo-instagram"></ion-icon>
+                                    Instagram
+                                </span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="btn btn-list" data-bs-dismiss="modal">
+                                <span>
+                                    <ion-icon name="logo-linkedin"></ion-icon>
+                                    Linkedin
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- * Share Action Sheet -->
+
+    <!-- App Capsule -->
+    <div id="appCapsule">
+
+
+        
+
+
+        <!-- Buttons -->
+        <div class="section">
+            <div class="">
+                <div class="">
+                    <div class="row">
+                        
+                        <div class="col" style="background: #fff;margin: 0px 8px;border-radius: 10px;">
+                            <div class=" pb-0"class="change">
+                                
+                                <div class="image-section" style="margin-top: 40px;height: 320px;">
+                                    <img src="assets/img/toyota-fortuner.webp" alt="Button Image" style="border-radius: 25px;">
+                                </div>
+                            
+
+                                    <h4 style="color:#222222;font-size: 20px;margin-bottom: 15px !important;">TOYOTA - Fortuner</h4>
+                                   <div>
+                                    
+                                    <div style="display:flex;gap:20px;">
+                                        <div>
+                                            <p style="font-size:10px;margin-top:-10px;font-size: 12px;"><ion-icon name="location-outline"></ion-icon>43 185km</p>
+                                        </div>
+                                        <div>
+                                            <p style="font-size:10px;margin-top:-10px;font-size: 12px;"><ion-icon name="location-outline"></ion-icon>Automatic</p>
+                                        </div>
+                                        <div>
+                                            <p style="font-size:10px;margin-top:-10px;font-size: 12px;"><ion-icon name="location-outline"></ion-icon>Diesel</p>
+                                        </div>
+                                        <div>
+                                            <p style="font-size:10px;margin-top:-10px;font-size: 12px;"><ion-icon name="location-outline"></ion-icon>Menlyn</p>
+                                        </div>
+                                    </div>
+                                   
+                                    
+                                   </div>
+
+
+                                    <h2 style="color:#222222;margin: 5px 0px 5px 0px;font-size: 30px !important;margin-top: -10px;">R 679 800</h2>
+
+                                    <ul class="listview no-line transparent flush simple-listview">
+                                        <li style="padding: 0px 0px;">
+                                            <div class="text-muted">Make</div>
+                                            <strong class="text-success">Toyota</strong>
+                                        </li>
+                                        <li style="padding: 0px 0px;">
+                                            <div class="text-muted">Model</div>
+                                            <strong>Fortuner</strong>
+                                        </li>
+                                        <li style="padding: 0px 0px;">
+                                            <div class="text-muted">Year</div>
+                                            <strong>2022</strong>
+                                        </li>
+                                        <li style="padding: 0px 0px;">
+                                            <div class="text-muted">Mileage</div>
+                                            <strong>43 185</strong>
+                                        </li>
+                                        <li style="padding: 0px 0px;">
+                                            <div class="text-muted">Engine Size</div>
+                                            <strong>2798</strong>
+                                        </li>
+                                        <li style="padding: 0px 0px;">
+                                            <div class="text-muted">Fuel Type</div>
+                                            <strong>Diesel</strong>
+                                        </li>
+                                        <li style="padding: 0px 0px;">
+                                            <div class="text-muted">GearBox</div>
+                                            <strong>Automatic</strong>
+                                        </li>
+                                        <li style="padding: 0px 0px;">
+                                            <div class="text-muted">Color</div>
+                                            <strong>Grey</strong>
+                                        </li>
+                                        <li style="padding: 0px 0px;">
+                                            <div class="text-muted">Vehicle Type</div>
+                                            <strong>SUV</strong>
+                                        </li>
+                                        <li style="padding: 0px 0px;">
+                                            <div class="text-muted">Stock Number</div>
+                                            <strong>UK5170</strong>
+                                        </li>
+                                        <li style="padding: 0px 0px;">
+                                            <div class="text-muted">Has Service History</div>
+                                            <strong>Yes</strong>
+                                        </li>
+                                    </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <!-- Buttons -->
+
+       
+
+        <!-- Stats -->
+        <div class="section mt-2">
+            <div class="card" style="padding:10px;">
+                <div class="row mb-05 fontsize-sub">
+                    <div class="col text-secondary "><strong>Vehicle Condition</strong></div>
+                    <div class="col text-success text-end" style="font-weight: 700;"><strong>Excellent</strong></div>
+                </div>
+                <div class="progress">
+                    <div class="progress-bar bg-success" role="progressbar" style="width: 72%" aria-valuenow="72"
+                        aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="progress-bar bg-secondary" role="progressbar" style="width: 28%" aria-valuenow="28"
+                        aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+            </div>
+            
+        </div>
+        <!-- Stats -->
+
+        <!-- History -->
+        <div class="section ">
+            <div class="section-heading">
+                
+                
+            </div>
+            <div class="card">
+                <ul class="listview flush transparent no-line image-listview detailed-list mt-1 mb-1" style="padding:10px">
+                    <!-- item -->
+                    <!--Form Start-->
+                    <h3 class="title">Fill in your details below and a dedicated consultant will contact you.</h3>
+                    <form>
+
+                        <div class="form-group basic" style="display:flex;">
+                            <div class="input-wrapper" style="margin-right: 15px;">
+                                <label class="label" for="account2">Vehicle Name</label>
+                                <div class="exchange-group small">
+                                    <div class="input-col">
+                                        <input type="textarea" class="form-control form-control-lg pe-0"
+                                            id="depositAmount" placeholder="Enter Vehicle Name...">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="input-wrapper">
+                                <label class="label" for="account2">Vehicle Brand</label>
+                                <div class="exchange-group small">
+                                    <div class="input-col">
+                                        <input type="textarea" class="form-control form-control-lg pe-0"
+                                            id="depositAmount" placeholder="Enter Vehicle Brand...">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+<center>
+                           <div class="form-group basic" style="display:flex;gap: 20px;">
+                            <div class="input-wrapper">
+                                <label class="label" for="account2">Select Year</label>
+                                <div class="exchange-group small">
+                                    <div class="input-col">
+                                    <select class="form-select form-select-lg currency">
+                                        <option value="" selected>2024</option>
+                                        <option value="">2023</option>
+                                        <option value="">2022</option>
+                                        <option value="">2021</option>
+                                        <option value="">2020</option>
+                                        <option value="">2019</option>
+                                        <option value="">2018</option>
+                                        <option value="">2017</option>
+                                        <option value="">2016</option>
+                                    </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="input-wrapper">
+                                <label class="label" for="account2">Select Fuel</label>
+                                <div class="exchange-group small">
+                                    <div class="input-col">
+                                    <select class="form-select form-select-lg currency">
+                                        <option value="" selected>Petrol</option>
+                                        <option value="">Diesel</option>
+                                    </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="input-wrapper">
+                                <label class="label" for="account2">Transmission</label>
+                                <div class="exchange-group small">
+                                    <div class="input-col">
+                                    <select class="form-select form-select-lg currency">
+                                        <option value="USD" selected>Automatic</option>
+                                        <option value="">Manual</option>
+                                    </select>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </center>
+
+                        <div class="form-group basic">
+                            <div class="input-wrapper">
+                                <label class="label" for="account2">Vehicle Condition</label><br>
+                                <div class="exchange-group small">
+                                    <div class="input-col" style="display:flex">
+                                        <div style="margin-right:10px;width:20%">
+                                        <input type="radio" id="option1" name="selection" value="option1"><br>
+                                        <label for="option1" style="font-size:10px;">Excellent</label>
+                                        </div>
+                                        <div style="margin-right:10px;width:20%">
+                                            <input type="radio" id="option1" name="selection" value="option1"><br>
+                                            <label for="option1" style="font-size:10px;">Good</label>
+                                        </div>
+                                        <div style="margin-right:10px;width:20%">
+                                            <input type="radio" id="option1" name="selection" value="option1"><br>
+                                            <label for="option1" style="font-size:10px;">Average</label>
+                                        </div>
+                                        <div style="margin-right:10px;width:30%">
+                                            <input type="radio" id="option1" name="selection" value="option1"><br>
+                                            <label for="option1" style="font-size:10px;">Below Average</label>
+                                        </div>
+                                        <div style="margin-right:10px;width:10%">
+                                            <input type="radio" id="option1" name="selection" value="option1"><br>
+                                            <label for="option1" style="font-size:10px;">Bad</label>
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="form-group basic">
+                            <div class="input-wrapper">
+                                <label class="label" for="account2">Your Name & Surname</label>
+                                <div class="exchange-group small">
+                                    <div class="input-col">
+                                        <input type="textarea" class="form-control form-control-lg pe-0"
+                                            id="depositAmount" placeholder="Enter Your Name & Surname">
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+
+                       
+                        <div class="form-group basic mb-2">
+                            <div class="input-wrapper">
+                                <label class="label" for="account2">Your Cell Number</label>
+                                <input type="tel" class="form-control form-control-lg pe-0"
+                                            id="depositAmount" placeholder="Enter Your Cell Number" required>
+                            </div>
+                        </div>
+                        <div class="form-group basic mb-2">
+                            <div class="input-wrapper">
+                                <label class="label" for="account2">Your Email Address</label>
+                                <input type="textarea" class="form-control form-control-lg pe-0"
+                                            id="depositAmount" placeholder="Enter Your Email Address" required>
+                            </div>
+                        </div>
+                        <div class="form-group basic mb-2">
+                            <div class="input-wrapper">
+                                <label class="label" for="account2">When Can We Contact You For An Evaluation</label>
+                            </div>
+                        </div>
+                       
+                        <div class="exchange-group small">
+                            <div class="input-col">
+                                <input type="date" class="form-control form-control-lg pe-0"
+                                        id="sendsomeone">
+                            </div>
+                            
+                            <div class="select-col">
+                                
+                                <select class="form-select form-select-lg currency">
+                                    <option value="USD" selected>08:30</option>
+                                    <option value="">09:00</option>
+                                    <option value="">10:00</option>
+                                    <option value="">11:00</option>
+                                    <option value="">12:00</option>
+                                    <option value="">14:00</option>
+                                    <option value="">15:00</option>
+                                    <option value="">16:00</option>
+                                    <option value="">17:00</option>
+                                </select>
+                            </div>
+                            <div class="select-col">
+                                <div class="form-group camera-upload">
+                                    <label for="cameraInput" class="camera-label">
+                                        <ion-icon name="camera-outline"></ion-icon>
+                                    </label>
+                                    <input type="file" id="cameraInput" accept="image/*" capture="environment" style="display: none;" required>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mt-2">
+                            <button type="button" class="btn btn-primary btn-lg btn-block"
+                                >Send Details</button>
+                        </div>
+
+                    </form>
+                </ul>
+               
+            </div>
+        </div>
+        <!-- History -->
+
+
+        <div class="section inset mb-4 mt-4">
+            <div class="accordion" id="accordionExample1">
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#accordion01">
+                            Vehicle Financing
+                        </button>
+                    </h2>
+                    <div id="accordion01" class="accordion-collapse collapse" data-bs-parent="#accordionExample1">
+                        <div class="accordion-body">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at feugiat tellus. Sed quis
+                            velit tellus.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#accordion02">
+                            Car Insurance
+                        </button>
+                    </h2>
+                    <div id="accordion02" class="accordion-collapse collapse" data-bs-parent="#accordionExample1">
+                        <div class="accordion-body">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at feugiat tellus. Sed quis
+                            velit tellus.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#accordion03">
+                            Tracking Unit
+                        </button>
+                    </h2>
+                    <div id="accordion03" class="accordion-collapse collapse" data-bs-parent="#accordionExample1">
+                        <div class="accordion-body">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at feugiat tellus. Sed quis
+                            velit tellus.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- app footer -->
+        <div class="appFooter">
+            
+        </div>
+        <!-- * app footer -->
+
+    </div>
+    <!-- * App Capsule -->
+
+    <!-- App Bottom Menu -->
+    <div class="appBottomMenu">
+        <a href="index.html" class="item">
+            <div class="col">
+                <ion-icon name="pie-chart-outline"></ion-icon>
+                <strong>Overview</strong>
+            </div>
+        </a>
+        <a href="app-pages.html" class="item">
+            <div class="col">
+                <ion-icon name="document-text-outline"></ion-icon>
+                <strong>Pages</strong>
+            </div>
+        </a>
+        <a href="app-components.html" class="item">
+            <div class="col">
+                <ion-icon name="apps-outline"></ion-icon>
+                <strong>Components</strong>
+            </div>
+        </a>
+        <a href="app-cards.html" class="item">
+            <div class="col">
+                <ion-icon name="card-outline"></ion-icon>
+                <strong>My Cards</strong>
+            </div>
+        </a>
+        <a href="app-settings.html" class="item">
+            <div class="col">
+                <ion-icon name="settings-outline"></ion-icon>
+                <strong>Settings</strong>
+            </div>
+        </a>
+    </div>
+    <!-- * App Bottom Menu -->
+
+
+
+    <!-- ========= JS Files =========  -->
+    <!-- Bootstrap -->
+    <script src="assets/js/lib/bootstrap.bundle.min.js"></script>
+    <!-- Ionicons -->
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <!-- Splide -->
+    <script src="assets/js/plugins/splide/splide.min.js"></script>
+    <!-- Apex Charts -->
+    <script src="assets/js/plugins/apexcharts/apexcharts.min.js"></script>
+    <!-- Base Js File -->
+    <script src="assets/js/base.js"></script>
+
+    <script>
+
+        var chartExample1 = {
+            series: [{
+                data: [512, 405, 666, 1090, 1309, 1400, 1500, 700, 1600, 1400, 1600, 2000, 1100, 501, 3000, 1000, 2000]
+            }],
+            chart: {
+                type: 'area',
+                width: '100%',
+                height: 140,
+                sparkline: {
+                    enabled: true
+                }
+            },
+            stroke: {
+                width: 2,
+            },
+            colors: ['#1DCC70'],
+            tooltip: {
+                enabled: false
+            }
+        };
+
+        var chartExample2 = {
+            series: [{
+                data: [512, 405, 666, 1090, 1309, 1400, 1500, 700, 1700, 1600, 1400, 1600]
+            }],
+            chart: {
+                type: 'area',
+                width: '100%',
+                height: 140,
+                sparkline: {
+                    enabled: true
+                }
+            },
+            stroke: {
+                width: 2,
+            },
+            colors: ['#1DCC70'],
+            tooltip: {
+                enabled: false
+            }
+        };
+
+        var chartExample3 = {
+            series: [{
+                data: [512, 405, 666, 1090, 1309, 1400, 1500, 700, 405, 666, 1090, 1309, 1400, 1500]
+            }],
+            chart: {
+                type: 'area',
+                width: '100%',
+                height: 140,
+                sparkline: {
+                    enabled: true
+                }
+            },
+            stroke: {
+                width: 2,
+            },
+            colors: ['#1DCC70'],
+            tooltip: {
+                enabled: false
+            }
+        };
+
+        var chartExample4 = {
+            series: [{
+                data: [512, 405, 666, 1090, 1309, 1400, 1500, 700, 1000, 2000, 512, 405, 666, 1090, 1309, 1400, 1500]
+            }],
+            chart: {
+                type: 'area',
+                width: '100%',
+                height: 140,
+                sparkline: {
+                    enabled: true
+                }
+            },
+            stroke: {
+                width: 2,
+            },
+            colors: ['#1DCC70'],
+            tooltip: {
+                enabled: false
+            }
+        };
+
+        var chartExample5 = {
+            series: [{
+                data: [512, 405, 666, 1090, 1309, 1400, 1309, 1400, 1500]
+            }],
+            chart: {
+                type: 'area',
+                width: '100%',
+                height: 140,
+                sparkline: {
+                    enabled: true
+                }
+            },
+            stroke: {
+                width: 2,
+            },
+            colors: ['#1DCC70'],
+            tooltip: {
+                enabled: false
+            }
+        };
+
+        document.addEventListener('DOMContentLoaded', function () {
+            document.querySelectorAll('.chart-example-1').forEach(chart => new ApexCharts(chart, chartExample1).render());
+            document.querySelectorAll('.chart-example-2').forEach(chart => new ApexCharts(chart, chartExample2).render());
+            document.querySelectorAll('.chart-example-3').forEach(chart => new ApexCharts(chart, chartExample3).render());
+            document.querySelectorAll('.chart-example-4').forEach(chart => new ApexCharts(chart, chartExample4).render());
+            document.querySelectorAll('.chart-example-5').forEach(chart => new ApexCharts(chart, chartExample5).render());
+        })
+
+    </script>
+
+</body>
+
+</html>
